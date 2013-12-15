@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "7a740942_1d201ff7",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 7630
+      },
+      "writtenOn": "2013-12-15T11:16:30Z",
+      "side": 1,
+      "message": "Eens",
+      "parentUuid": "7a740942_c29dd25a",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "7a740942_62a3be9f",
         "filename": "res/values-nl/strings.xml",
         "patchSetId": 1
@@ -36,6 +54,24 @@
     },
     {
       "key": {
+        "uuid": "7a740942_7d236306",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 7630
+      },
+      "writtenOn": "2013-12-15T11:16:30Z",
+      "side": 1,
+      "message": "Mee eens.",
+      "parentUuid": "7a740942_62a3be9f",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "7a740942_82a02a92",
         "filename": "res/values-nl/strings.xml",
         "patchSetId": 1
@@ -47,6 +83,24 @@
       "writtenOn": "2013-12-15T08:00:14Z",
       "side": 1,
       "message": "- Kan versleutelde bijlage uit/van (ik weet nooit welk voorzetsel je moet gebruiken) inkomend bericht ophalen",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_9d82cfc7",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 7630
+      },
+      "writtenOn": "2013-12-15T11:16:30Z",
+      "side": 1,
+      "message": "Volgens mij bevat een bericht een bijlage en haal je die er uit :-)",
+      "parentUuid": "7a740942_82a02a92",
       "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
