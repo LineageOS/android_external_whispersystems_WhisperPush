@@ -1,0 +1,1738 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a740942_c29dd25a",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "Ik zou van client (\u0027client-app\u0027) gewoon app maken.",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_62a3be9f",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "Moet \u0027pending\u0027 per se vertaald worden? Zie ook hieronder",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_82a02a92",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "- Kan versleutelde bijlage uit/van (ik weet nooit welk voorzetsel je moet gebruiken) inkomend bericht ophalen",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_22adb688",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 31,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "Onjuist versleuteld bericht ontvangen of bericht versleuteld voor niet bestaande sessie",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_42aa4272",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 34,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "%s ontvangen",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_e2b56ed0",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 37,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "Uw land selecteren",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_02bbdac5",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 39,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "U moet een landcode invoeren.",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_a2af667c",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "U moet een telefoonnummer invoeren.",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_c2b4f2d2",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 44,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "Ongeldig nummer",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_62cade51",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 46,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "Het nummer dat u invoerde (%s) is ongeldig.",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_82c7ca44",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 48,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "Niet ondersteund",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_e2dc8e1a",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 51,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "[Dit is trouwens niet van toepassing op CM]\n- Uw apparaat kan geen internetberichten versturen. Apparaten met een lagere versie dan Android 4.0 vereisen een geregistreerd Google-account. Dit geldt niet voor Android 4.0 en hoger, maar de Play Store-app moet wel geïnstalleerd zijn.",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_02e2fad5",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 55,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "Er wordt nu gecontroleerd of dit nummer bij uw apparaat hoort:\\n\\n%s\\n\\nIs dit nummer juist of wilt u het wijzigen?",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_a2e686e6",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 58,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "Doorgaan",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_c2eb92af",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 59,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "Wijzigen",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_62d17efb",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 60,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "Verbinding maken met TextSecure",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_82ceea58",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 63,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "Mogelijke problemen",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_22db761d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 66,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "Nummer controleren",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_42d8021e",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 67,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "%s wijzigen",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_e2032e75",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 68,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "Mogelijke problemen.",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_62f89e7d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 69,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "U moet de code invoeren die u als eerste heeft ontvangen\\u2026",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_82f58a84",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 70,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "Verbinding maken",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_22f2969b",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 71,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "Verbinding maken voor de controle\\u2026",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_e22a4ee7",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 72,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "Netwerkfout",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_0230ba55",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 73,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "Kan geen verbinding maken. Controleer uw internetverbinding en probeer het opnieuw.",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_a234464a",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 74,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "Controle mislukt",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_224936d1",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 75,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "De ingevoerde controlecode is onjuist. Probeer het opnieuw.",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_4246c2c0",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 76,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "Te veel pogingen",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_a20be67c",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 77,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "U heeft te vaak een onjuiste controlecode ingevoerd. Probeer het opnieuw na een minuut.",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_62265e18",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 78,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "Gesprek aanvragen",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_82234a05",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 79,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "Verificatiegesprek aanvragen\\u2026",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_222056f7",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 80,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "Serverfout",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_e2780efb",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 81,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "Er is een fout opgetreden op de server. Probeer het opnieuw.",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_027e7ae4",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 82,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "Te veel verzoeken",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_c28712d6",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 83,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "U heeft al een geluidsgesprek aangevraagd. U kunt een nieuwe aanvragen over 20 minuten.",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_826a6a19",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 84,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "Geluidscode controleren\\u2026",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_427482fc",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 87,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "Registratie voltooid",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_02651a44",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 89,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "De registratie voor push-berichten is succesvol voltooid.",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_a259a690",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 91,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "Registratiefout",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_62541e54",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 93,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "Er is een fout opgetreden tijdens het registreren voor push-berichten",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_82510a65",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 97,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "Kan ontvangen versleutelde bijlage niet weergeven",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_224e16c2",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 100,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "Berichten verwijderen?",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_e2c6ce15",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 102,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "Weet u zeker dat u deze identiteitsvingerafdruk wilt bestempelen als ongeldig en daarvan afhankelijke berichten wilt verwijderen?",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_a2d0c6ca",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 105,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "Verwerken",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_62dbbeee",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 106,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "Berichten verwijderen\\u2026",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_42e242a1",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 107,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "Identiteitssleutel verwerken\\u2026",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_02f3da74",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 111,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "Gecontroleerd",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_c2ecf291",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 112,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "Gescande sleutel komt overeen",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_6202de40",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 113,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "Niet gecontroleerd",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_82ffca33",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 115,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "De gescande sleutel komt niet overeen",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_42f9e24c",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 117,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "Geen gescande sleutel gevonden",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_e2948ee9",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 120,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "Zoeken",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_029afa14",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 121,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "Landen controleren\\u2026",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_a29e8605",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 124,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "Bevestig uw landcode en telefoonnummer.",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_c2a3924e",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 127,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "UW LAND",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_62897eca",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 129,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "UW LANDCODE EN TELEFOONNUMMER",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_229376fc",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 131,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "TELEFOONNUMMER",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_e2bb2e74",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 132,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "Registreren",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_02c19ae4",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 135,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "Enkele mogelijke problemen:",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_a2b5267f",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 138,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "Onderscheppen van sms-berichten",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_c2bab26e",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 140,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "Enkele berichten-apps van derde partijen, zoals Handcent en GoSMS, gedragen zich onjuist en onderscheppen alle inkomende sms-berichten. Controleer of u een bericht heeft ontvangen, die begint met \\\u0027Your TextSecure verification code:\\\u0027. Indien dat het geval is, moet u uw berichten-app instellen om tekstberichten door te geven.",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_62b09e8c",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 145,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "Onjuist nummer",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_82ad8a33",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 147,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "Controleer of uw nummer correct is ingevoerd en dat het genoteerd is in de notatie voor uw regio.",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_22aa961a",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 150,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "(Hier zou ik die punt wel weglaten, dit is nml geen zin)",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_42a7a24f",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 152,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "TextSecure werkt niet met Google Voice-nummers.",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_e2624e16",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 156,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "Geluidscontrole",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_a26c4609",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 158,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "TextSecure kunt u ook bellen om uw nummer te controleren. Raak \\\u0027Bel mij\\\u0027 aan en voer het zes-cijferige nummer in die u hoort.",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_c27152e2",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 161,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "Controleren",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_62773ed5",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 162,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "Bel mij",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_8274aacf",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 163,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "Nummer wijzigen",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_22813690",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 164,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "Verbindingsfout",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_c248728a",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 166,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "TextSecure kon geen verbinding maken met de push-diensten.",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_625e5e47",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 169,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "Enkele mogelijke problemen:",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_825b4a54",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 172,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "Geen internetverbinding",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_22585656",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 175,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "Een internetverbinding is vereist om deze functie van TextSecure te gebruiken. Controleer of u een mobiele gegevensverbinding of een wifi-verbinding heeft.",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_4255621b",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 178,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "Beperkende firewall",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_e2300e0a",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 182,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "Met een wifi-verbinding is het mogelijk dat een firewall de toegang tot de TextSecure-server verhindert. Probeer een ander netwerk of uw mobiele gegevensverbinding.",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_02367a03",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 185,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "TextSecure controleert nu uw nummer met een bevestigingsbericht.",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_a23a06e6",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 187,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "Verbinding maken\\u2026",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_c23f12d5",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 189,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "Wachten op sms-controle\\u2026",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_6225fec0",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 191,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "Registreren bij server\\u2026",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_222ff6a2",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 193,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "Dit kan enige tijd in beslag nemen. Een ogenblik geduld, u wordt op de hoogte gebracht wanneer de controle heeft plaatsgevonden.",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_422c82ab",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 196,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "Een time-out is opgetreden tijdens het wachten op het bevestigingsbericht.",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_e217ae52",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 198,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "Sms-controle mislukt",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_021d1a73",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 201,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "Sleutels genereren\\u2026",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_a211a65f",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 202,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "Melding",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_c2163255",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 203,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "Controleren",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_620c1e43",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 204,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "Telefoon",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_22061621",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 205,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "In de stringnaam staat default, dus dit moet ook translatable\u003d\"false\" worden.",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_42032210",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 208,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "Registratie voltooid",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_ddfe1705",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 210,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "U heeft u succesvol geregistreerd bij TextSecure.",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_fd03d30b",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 212,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "Opnieuw registreren",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_9d088f2a",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 215,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "U heeft geen identiteiten in uw vertrouwensdatabase.",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_bd0d4b39",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 218,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "Geen (wachtende) berichten die gecontroleerd moeten worden.",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_3d1abb6f",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 219,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "Het identiteitsvingerafdruk van deze contactpersoon is gewijzigd. Dit kan betekenen dat de communicatie wordt onderschept of dat  deze een nieuwe telefoon heeft. Wellicht wilt u deze bellen om de vingerafdruk te controleren door het hardop voor te lezen. Voordat het gecontroleerd is, worden berichten van deze persoon tegengehouden.",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_427ec2af",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 225,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "Hun vingerafdruk:",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_e249ee8f",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 226,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "Geldig",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_024f5a93",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 227,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "Ongeldig",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_a243e66b",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 228,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "Afbeelding",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_02099a95",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 231,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "Vergelijken",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_a2fd2670",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 232,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "Scannen om te vergelijken",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_c202b26f",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 233,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-15T08:00:14Z",
+      "side": 1,
+      "message": "Scannen om te vergelijken",
+      "revId": "32e043a38ca959fa98b3b87eb99e68b1574ee09a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
