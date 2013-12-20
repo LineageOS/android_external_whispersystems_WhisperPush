@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3a7e1126_729390a4",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 126,
+      "author": {
+        "id": 7221
+      },
+      "writtenOn": "2013-12-20T12:31:59Z",
+      "side": 1,
+      "message": "\u0027\u003c\u0027 ontbreekt in \u003c/string\u003e",
+      "revId": "02f77152c96f353b45dc599a4b67c7dbd30e5bf2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a7e1126_f2ed4026",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 134,
+      "author": {
+        "id": 7221
+      },
+      "writtenOn": "2013-12-20T12:31:59Z",
+      "side": 1,
+      "message": "\u0027Hun\u0027 is meervoud.\n\"Zijn vingerafdruk:\"",
+      "revId": "02f77152c96f353b45dc599a4b67c7dbd30e5bf2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
