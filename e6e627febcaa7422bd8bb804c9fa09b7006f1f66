@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "9a68dd71_cab5e3d0",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 7630
+      },
+      "writtenOn": "2013-12-24T02:25:49Z",
+      "side": 1,
+      "message": "+1",
+      "parentUuid": "9a68dd71_2a003faa",
+      "revId": "e6e627febcaa7422bd8bb804c9fa09b7006f1f66",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "9a68dd71_0a03fbb9",
         "filename": "res/values-nl/strings.xml",
         "patchSetId": 3
@@ -30,6 +48,24 @@
       "writtenOn": "2013-12-24T01:56:19Z",
       "side": 1,
       "message": "Onnodige witregel",
+      "revId": "e6e627febcaa7422bd8bb804c9fa09b7006f1f66",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a68dd71_eaba27c0",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 7630
+      },
+      "writtenOn": "2013-12-24T02:25:49Z",
+      "side": 1,
+      "message": "+1",
+      "parentUuid": "9a68dd71_0a03fbb9",
       "revId": "e6e627febcaa7422bd8bb804c9fa09b7006f1f66",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -53,6 +89,24 @@
     },
     {
       "key": {
+        "uuid": "9a68dd71_8aafeb7c",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 7630
+      },
+      "writtenOn": "2013-12-24T02:25:49Z",
+      "side": 1,
+      "message": "+1",
+      "parentUuid": "9a68dd71_6af637d9",
+      "revId": "e6e627febcaa7422bd8bb804c9fa09b7006f1f66",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "9a68dd71_ca2ba332",
         "filename": "res/values-nl/strings.xml",
         "patchSetId": 3
@@ -64,6 +118,24 @@
       "writtenOn": "2013-12-24T01:56:19Z",
       "side": 1,
       "message": "Onnodige witregel",
+      "revId": "e6e627febcaa7422bd8bb804c9fa09b7006f1f66",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a68dd71_aab42fd1",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 7630
+      },
+      "writtenOn": "2013-12-24T02:25:49Z",
+      "side": 1,
+      "message": "+1",
+      "parentUuid": "9a68dd71_ca2ba332",
       "revId": "e6e627febcaa7422bd8bb804c9fa09b7006f1f66",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -87,6 +159,24 @@
     },
     {
       "key": {
+        "uuid": "9a68dd71_4aca5351",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 7630
+      },
+      "writtenOn": "2013-12-24T02:25:49Z",
+      "side": 1,
+      "message": "+1",
+      "parentUuid": "9a68dd71_ea30e7a0",
+      "revId": "e6e627febcaa7422bd8bb804c9fa09b7006f1f66",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "9a68dd71_8a25ab5d",
         "filename": "res/values-nl/strings.xml",
         "patchSetId": 3
@@ -98,6 +188,24 @@
       "writtenOn": "2013-12-24T01:56:19Z",
       "side": 1,
       "message": "Onnodige witregel",
+      "revId": "e6e627febcaa7422bd8bb804c9fa09b7006f1f66",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a68dd71_6ac71746",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 7630
+      },
+      "writtenOn": "2013-12-24T02:25:49Z",
+      "side": 1,
+      "message": "+1",
+      "parentUuid": "9a68dd71_8a25ab5d",
       "revId": "e6e627febcaa7422bd8bb804c9fa09b7006f1f66",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -121,6 +229,24 @@
     },
     {
       "key": {
+        "uuid": "9a68dd71_0ac45b3e",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 31,
+      "author": {
+        "id": 7630
+      },
+      "writtenOn": "2013-12-24T02:25:49Z",
+      "side": 1,
+      "message": "+1",
+      "parentUuid": "9a68dd71_aa2aef2a",
+      "revId": "e6e627febcaa7422bd8bb804c9fa09b7006f1f66",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "9a68dd71_4a20134a",
         "filename": "res/values-nl/strings.xml",
         "patchSetId": 3
@@ -132,6 +258,24 @@
       "writtenOn": "2013-12-24T01:56:19Z",
       "side": 1,
       "message": "\u0027nu\u0027 is overbodig, vooral omdat dit een bevestiging is om et te controleren.",
+      "revId": "e6e627febcaa7422bd8bb804c9fa09b7006f1f66",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a68dd71_2ac11f2f",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 39,
+      "author": {
+        "id": 7630
+      },
+      "writtenOn": "2013-12-24T02:25:49Z",
+      "side": 1,
+      "message": "+1",
+      "parentUuid": "9a68dd71_4a20134a",
       "revId": "e6e627febcaa7422bd8bb804c9fa09b7006f1f66",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -155,6 +299,41 @@
     },
     {
       "key": {
+        "uuid": "9a68dd71_cadc031b",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 65,
+      "author": {
+        "id": 7630
+      },
+      "writtenOn": "2013-12-24T02:25:49Z",
+      "side": 1,
+      "message": "+1",
+      "parentUuid": "9a68dd71_cad2c334",
+      "revId": "e6e627febcaa7422bd8bb804c9fa09b7006f1f66",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a68dd71_eae1c7d1",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 71,
+      "author": {
+        "id": 7630
+      },
+      "writtenOn": "2013-12-24T02:25:49Z",
+      "side": 1,
+      "message": "LOL",
+      "revId": "e6e627febcaa7422bd8bb804c9fa09b7006f1f66",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "9a68dd71_aae18f00",
         "filename": "res/values-nl/strings.xml",
         "patchSetId": 3
@@ -166,6 +345,24 @@
       "writtenOn": "2013-12-24T01:56:19Z",
       "side": 1,
       "message": "Je tikt op iets. In dat geval wordt \u0027Raak aan\u0027 gebruikt.\n\n- Raak \\\u0027Bel mij\\\u0027 aan...",
+      "revId": "e6e627febcaa7422bd8bb804c9fa09b7006f1f66",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a68dd71_8ae60be7",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 103,
+      "author": {
+        "id": 7630
+      },
+      "writtenOn": "2013-12-24T02:25:49Z",
+      "side": 1,
+      "message": "+1",
+      "parentUuid": "9a68dd71_aae18f00",
       "revId": "e6e627febcaa7422bd8bb804c9fa09b7006f1f66",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -189,6 +386,24 @@
     },
     {
       "key": {
+        "uuid": "9a68dd71_aaebcfaf",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 108,
+      "author": {
+        "id": 7630
+      },
+      "writtenOn": "2013-12-24T02:25:49Z",
+      "side": 1,
+      "message": "+1",
+      "parentUuid": "9a68dd71_6ae4f70c",
+      "revId": "e6e627febcaa7422bd8bb804c9fa09b7006f1f66",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "9a68dd71_eabea7d3",
         "filename": "res/values-nl/strings.xml",
         "patchSetId": 3
@@ -206,6 +421,24 @@
     },
     {
       "key": {
+        "uuid": "9a68dd71_4ad1f3fa",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 114,
+      "author": {
+        "id": 7630
+      },
+      "writtenOn": "2013-12-24T02:25:49Z",
+      "side": 1,
+      "message": "+1",
+      "parentUuid": "9a68dd71_eabea7d3",
+      "revId": "e6e627febcaa7422bd8bb804c9fa09b7006f1f66",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "9a68dd71_8ab36b0a",
         "filename": "res/values-nl/strings.xml",
         "patchSetId": 3
@@ -217,6 +450,24 @@
       "writtenOn": "2013-12-24T01:56:19Z",
       "side": 1,
       "message": "Partner? Ik zou zeggen \u0027contact\u0027, om het kort te houden.",
+      "revId": "e6e627febcaa7422bd8bb804c9fa09b7006f1f66",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a68dd71_6ace375c",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 134,
+      "author": {
+        "id": 7630
+      },
+      "writtenOn": "2013-12-24T02:25:49Z",
+      "side": 1,
+      "message": "Dan moet het ook in de andere bestanden contact worden. In het kader van verbinding met sleutels denk ik dat partner ook wel prima is. En hoezo korter?, beide zijn 7 letters:-)",
+      "parentUuid": "9a68dd71_8ab36b0a",
       "revId": "e6e627febcaa7422bd8bb804c9fa09b7006f1f66",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
