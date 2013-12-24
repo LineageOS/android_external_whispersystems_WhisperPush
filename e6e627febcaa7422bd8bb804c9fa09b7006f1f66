@@ -1,0 +1,225 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9a68dd71_2a003faa",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-24T01:56:19Z",
+      "side": 1,
+      "message": "Hier moet een newline, nieuw formaat voor copyright notice.",
+      "revId": "e6e627febcaa7422bd8bb804c9fa09b7006f1f66",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a68dd71_0a03fbb9",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-24T01:56:19Z",
+      "side": 1,
+      "message": "Onnodige witregel",
+      "revId": "e6e627febcaa7422bd8bb804c9fa09b7006f1f66",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a68dd71_6af637d9",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-24T01:56:19Z",
+      "side": 1,
+      "message": "Onnodige witregel",
+      "revId": "e6e627febcaa7422bd8bb804c9fa09b7006f1f66",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a68dd71_ca2ba332",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-24T01:56:19Z",
+      "side": 1,
+      "message": "Onnodige witregel",
+      "revId": "e6e627febcaa7422bd8bb804c9fa09b7006f1f66",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a68dd71_ea30e7a0",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-24T01:56:19Z",
+      "side": 1,
+      "message": "niet-bestaande",
+      "revId": "e6e627febcaa7422bd8bb804c9fa09b7006f1f66",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a68dd71_8a25ab5d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-24T01:56:19Z",
+      "side": 1,
+      "message": "Onnodige witregel",
+      "revId": "e6e627febcaa7422bd8bb804c9fa09b7006f1f66",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a68dd71_aa2aef2a",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 31,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-24T01:56:19Z",
+      "side": 1,
+      "message": "Onnodige witregel",
+      "revId": "e6e627febcaa7422bd8bb804c9fa09b7006f1f66",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a68dd71_4a20134a",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 39,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-24T01:56:19Z",
+      "side": 1,
+      "message": "\u0027nu\u0027 is overbodig, vooral omdat dit een bevestiging is om et te controleren.",
+      "revId": "e6e627febcaa7422bd8bb804c9fa09b7006f1f66",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a68dd71_cad2c334",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 65,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-24T01:56:19Z",
+      "side": 1,
+      "message": "Onnodige witregel",
+      "revId": "e6e627febcaa7422bd8bb804c9fa09b7006f1f66",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a68dd71_aae18f00",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 103,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-24T01:56:19Z",
+      "side": 1,
+      "message": "Je tikt op iets. In dat geval wordt \u0027Raak aan\u0027 gebruikt.\n\n- Raak \\\u0027Bel mij\\\u0027 aan...",
+      "revId": "e6e627febcaa7422bd8bb804c9fa09b7006f1f66",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a68dd71_6ae4f70c",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 108,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-24T01:56:19Z",
+      "side": 1,
+      "message": "Onderwerp kan weggelaten worden.\n- Kan geen verbinding...",
+      "revId": "e6e627febcaa7422bd8bb804c9fa09b7006f1f66",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a68dd71_eabea7d3",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 114,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-24T01:56:19Z",
+      "side": 1,
+      "message": "Uw nummer wordt geverifieerd...",
+      "revId": "e6e627febcaa7422bd8bb804c9fa09b7006f1f66",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a68dd71_8ab36b0a",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 134,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-24T01:56:19Z",
+      "side": 1,
+      "message": "Partner? Ik zou zeggen \u0027contact\u0027, om het kort te houden.",
+      "revId": "e6e627febcaa7422bd8bb804c9fa09b7006f1f66",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
