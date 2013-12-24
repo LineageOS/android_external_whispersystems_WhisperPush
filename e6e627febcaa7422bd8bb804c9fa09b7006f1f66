@@ -369,6 +369,24 @@
     },
     {
       "key": {
+        "uuid": "9a68dd71_8db5c57f",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 103,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2013-12-24T14:15:03Z",
+      "side": 1,
+      "message": "Hier ben ik het niet helemaal mee eens. We hebben toch juist alles veranderd naar Tikken? Voorbeeld?",
+      "parentUuid": "9a68dd71_8ae60be7",
+      "revId": "e6e627febcaa7422bd8bb804c9fa09b7006f1f66",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "9a68dd71_6ae4f70c",
         "filename": "res/values-nl/strings.xml",
         "patchSetId": 3
