@@ -507,6 +507,24 @@
       "revId": "e6e627febcaa7422bd8bb804c9fa09b7006f1f66",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a68dd71_3b7e4faf",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 134,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-26T01:28:51Z",
+      "side": 1,
+      "message": "Ik bedoel dat \u0027contactpersoon\u0027 meer letters bevat dan \u0027contact\u0027. Misschien is het wel beter als we alles dan veranderen naar \u0027contact\u0027.",
+      "parentUuid": "9a68dd71_6ace375c",
+      "revId": "e6e627febcaa7422bd8bb804c9fa09b7006f1f66",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
