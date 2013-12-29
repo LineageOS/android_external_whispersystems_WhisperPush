@@ -1,0 +1,259 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9a68dd71_29aa841a",
+        "filename": "res/values-es/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 3134
+      },
+      "writtenOn": "2013-12-29T10:25:01Z",
+      "side": 1,
+      "message": "Mensaje inválido (let\u0027s try to avoid push translation)",
+      "revId": "76ac0233777baae2a01566927c959d482b60ac18",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a68dd71_0968e0f4",
+        "filename": "res/values-es/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 3134
+      },
+      "writtenOn": "2013-12-29T10:25:01Z",
+      "side": 1,
+      "message": "Same here",
+      "revId": "76ac0233777baae2a01566927c959d482b60ac18",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a68dd71_69771cd5",
+        "filename": "res/values-es/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 3134
+      },
+      "writtenOn": "2013-12-29T10:25:01Z",
+      "side": 1,
+      "message": "Recibido mensaje no soportada ... (to be consistent with the title)",
+      "revId": "76ac0233777baae2a01566927c959d482b60ac18",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a68dd71_497ed8af",
+        "filename": "res/values-es/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 3134
+      },
+      "writtenOn": "2013-12-29T10:25:01Z",
+      "side": 1,
+      "message": "... para el mensaje entrante",
+      "revId": "76ac0233777baae2a01566927c959d482b60ac18",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a68dd71_e949cc8f",
+        "filename": "res/values-es/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 3134
+      },
+      "writtenOn": "2013-12-29T10:25:01Z",
+      "side": 1,
+      "message": "\"Mensaje indescifrable o no perteneciente a ninguna sesión.\"  ¿Better?",
+      "revId": "76ac0233777baae2a01566927c959d482b60ac18",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a68dd71_094f8093",
+        "filename": "res/values-es/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 3134
+      },
+      "writtenOn": "2013-12-29T10:25:01Z",
+      "side": 1,
+      "message": "¿Recibido?",
+      "revId": "76ac0233777baae2a01566927c959d482b60ac18",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a68dd71_695e3c47",
+        "filename": "res/values-es/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 34,
+      "author": {
+        "id": 3134
+      },
+      "writtenOn": "2013-12-29T10:25:01Z",
+      "side": 1,
+      "message": "...la aplicación Play Store instalada.\n\nTypo: una cuenta de Google",
+      "revId": "76ac0233777baae2a01566927c959d482b60ac18",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a68dd71_0936a003",
+        "filename": "res/values-es/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 49,
+      "author": {
+        "id": 3134
+      },
+      "writtenOn": "2013-12-29T10:25:01Z",
+      "side": 1,
+      "message": "El código de verificación suministrado es ...",
+      "revId": "76ac0233777baae2a01566927c959d482b60ac18",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a68dd71_492c98ab",
+        "filename": "res/values-es/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 63,
+      "author": {
+        "id": 3134
+      },
+      "writtenOn": "2013-12-29T10:25:01Z",
+      "side": 1,
+      "message": "lol. professional translation +1",
+      "revId": "76ac0233777baae2a01566927c959d482b60ac18",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a68dd71_89093034",
+        "filename": "res/values-es/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 71,
+      "author": {
+        "id": 3134
+      },
+      "writtenOn": "2013-12-29T10:25:01Z",
+      "side": 1,
+      "message": "aosp guidelines. No uppercase please",
+      "revId": "76ac0233777baae2a01566927c959d482b60ac18",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a68dd71_29060421",
+        "filename": "res/values-es/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 72,
+      "author": {
+        "id": 3134
+      },
+      "writtenOn": "2013-12-29T10:25:01Z",
+      "side": 1,
+      "message": "aosp guidelines. No uppercase please",
+      "revId": "76ac0233777baae2a01566927c959d482b60ac18",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a68dd71_49033810",
+        "filename": "res/values-es/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 83,
+      "author": {
+        "id": 3134
+      },
+      "writtenOn": "2013-12-29T10:25:01Z",
+      "side": 1,
+      "message": "Comprueba si has recibido un....\n\n..necesitarás configurar dicha aplicación para...",
+      "revId": "76ac0233777baae2a01566927c959d482b60ac18",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a68dd71_a43e9bb6",
+        "filename": "res/values-es/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 100,
+      "author": {
+        "id": 3134
+      },
+      "writtenOn": "2013-12-29T10:25:01Z",
+      "side": 1,
+      "message": "automáticamente",
+      "revId": "76ac0233777baae2a01566927c959d482b60ac18",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a68dd71_a410db4f",
+        "filename": "res/values-es/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 116,
+      "author": {
+        "id": 3134
+      },
+      "writtenOn": "2013-12-29T10:25:01Z",
+      "side": 1,
+      "message": ".. su lectura en voz alta.",
+      "revId": "76ac0233777baae2a01566927c959d482b60ac18",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a68dd71_441d5f65",
+        "filename": "res/values-es/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 120,
+      "author": {
+        "id": 3134
+      },
+      "writtenOn": "2013-12-29T10:25:01Z",
+      "side": 1,
+      "message": "¿Imagen?",
+      "revId": "76ac0233777baae2a01566927c959d482b60ac18",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
