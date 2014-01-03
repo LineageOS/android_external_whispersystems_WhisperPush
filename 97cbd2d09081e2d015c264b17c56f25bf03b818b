@@ -2,6 +2,40 @@
   "comments": [
     {
       "key": {
+        "uuid": "7a5de9d1_95aaae84",
+        "filename": "res/values-pl/strings.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 35,
+      "author": {
+        "id": 5637
+      },
+      "writtenOn": "2014-01-03T13:31:03Z",
+      "side": 1,
+      "message": "once again: \"Urz?dzenia posiadaj?ce system Android 4.0\"",
+      "revId": "97cbd2d09081e2d015c264b17c56f25bf03b818b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a5de9d1_5595163e",
+        "filename": "res/values-pl/strings.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 54,
+      "author": {
+        "id": 5637
+      },
+      "writtenOn": "2014-01-03T13:31:03Z",
+      "side": 1,
+      "message": "\"??danie przychodz?cego\"",
+      "revId": "97cbd2d09081e2d015c264b17c56f25bf03b818b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "7a5de9d1_d5a026a8",
         "filename": "res/values-pl/strings.xml",
         "patchSetId": 5
