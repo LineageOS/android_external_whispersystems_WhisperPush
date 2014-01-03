@@ -1,0 +1,140 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a5de9d1_7548522e",
+        "filename": "res/values-pl/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 35,
+      "author": {
+        "id": 5637
+      },
+      "writtenOn": "2014-01-03T13:19:39Z",
+      "side": 1,
+      "message": "\"Urz?dzenia posiadaj?ce\"...\nMaybe: \"Sklep Play\" ?",
+      "revId": "6cce753044a6ec0add0296f9a5b943e201e667af",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a5de9d1_756ff292",
+        "filename": "res/values-pl/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 52,
+      "author": {
+        "id": 5637
+      },
+      "writtenOn": "2014-01-03T13:19:39Z",
+      "side": 1,
+      "message": "\"przed kolejn? prób?\"",
+      "revId": "6cce753044a6ec0add0296f9a5b943e201e667af",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a5de9d1_35697a8c",
+        "filename": "res/values-pl/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 53,
+      "author": {
+        "id": 5637
+      },
+      "writtenOn": "2014-01-03T13:19:39Z",
+      "side": 1,
+      "message": "^^ remove this",
+      "revId": "6cce753044a6ec0add0296f9a5b943e201e667af",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a5de9d1_950e2ee4",
+        "filename": "res/values-pl/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 55,
+      "author": {
+        "id": 5637
+      },
+      "writtenOn": "2014-01-03T13:19:39Z",
+      "side": 1,
+      "message": "\"przychodz?cego\"",
+      "revId": "6cce753044a6ec0add0296f9a5b943e201e667af",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a5de9d1_75f612d9",
+        "filename": "res/values-pl/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 67,
+      "author": {
+        "id": 5637
+      },
+      "writtenOn": "2014-01-03T13:19:39Z",
+      "side": 1,
+      "message": "\"z nim\"",
+      "revId": "6cce753044a6ec0add0296f9a5b943e201e667af",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a5de9d1_9525ce5d",
+        "filename": "res/values-pl/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 90,
+      "author": {
+        "id": 5637
+      },
+      "writtenOn": "2014-01-03T13:19:39Z",
+      "side": 1,
+      "message": "IMO: \"g?osowa\"",
+      "revId": "6cce753044a6ec0add0296f9a5b943e201e667af",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a5de9d1_5520b649",
+        "filename": "res/values-pl/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 99,
+      "author": {
+        "id": 5637
+      },
+      "writtenOn": "2014-01-03T13:19:39Z",
+      "side": 1,
+      "message": "wifi or WiFi",
+      "revId": "6cce753044a6ec0add0296f9a5b943e201e667af",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a5de9d1_b5e1ea00",
+        "filename": "res/values-pl/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 118,
+      "author": {
+        "id": 5637
+      },
+      "writtenOn": "2014-01-03T13:19:39Z",
+      "side": 1,
+      "message": "maybe \"przez po??czenie g?osowe\" ?",
+      "revId": "6cce753044a6ec0add0296f9a5b943e201e667af",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
