@@ -1,0 +1,395 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5a5ae5dd_0e6c6f9b",
+        "filename": "res/values-fr/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 4808
+      },
+      "writtenOn": "2014-01-05T13:09:31Z",
+      "side": 1,
+      "message": "Je pense qu\u0027il faut ajouter le copyright",
+      "revId": "f10883b066906532bf7cbea386d60ca8d20ee8a4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a5ae5dd_2e692b8c",
+        "filename": "res/values-fr/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 4808
+      },
+      "writtenOn": "2014-01-05T13:09:31Z",
+      "side": 1,
+      "message": "Devez-vous mettre à jour",
+      "revId": "f10883b066906532bf7cbea386d60ca8d20ee8a4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a5ae5dd_ce0417c8",
+        "filename": "res/values-fr/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 4808
+      },
+      "writtenOn": "2014-01-05T13:09:31Z",
+      "side": 1,
+      "message": "Il y a des sauts de lignes en trop, il faut tout mettre sur une ligne c\u0027est plus simple.",
+      "revId": "f10883b066906532bf7cbea386d60ca8d20ee8a4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a5ae5dd_ee09d3de",
+        "filename": "res/values-fr/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 4808
+      },
+      "writtenOn": "2014-01-05T13:09:31Z",
+      "side": 1,
+      "message": "saut de ligne",
+      "revId": "f10883b066906532bf7cbea386d60ca8d20ee8a4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a5ae5dd_8e0e1fe4",
+        "filename": "res/values-fr/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 4808
+      },
+      "writtenOn": "2014-01-05T13:09:31Z",
+      "side": 1,
+      "message": "saut de ligne",
+      "revId": "f10883b066906532bf7cbea386d60ca8d20ee8a4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a5ae5dd_ae13db0c",
+        "filename": "res/values-fr/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 4808
+      },
+      "writtenOn": "2014-01-05T13:09:31Z",
+      "side": 1,
+      "message": "saut de ligne",
+      "revId": "f10883b066906532bf7cbea386d60ca8d20ee8a4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a5ae5dd_6ef643d9",
+        "filename": "res/values-fr/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 4808
+      },
+      "writtenOn": "2014-01-05T13:09:31Z",
+      "side": 1,
+      "message": "saut de ligne et \"Vous deZvez\"",
+      "revId": "f10883b066906532bf7cbea386d60ca8d20ee8a4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a5ae5dd_0e030fba",
+        "filename": "res/values-fr/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 4808
+      },
+      "writtenOn": "2014-01-05T13:09:31Z",
+      "side": 1,
+      "message": "saut de ligne",
+      "revId": "f10883b066906532bf7cbea386d60ca8d20ee8a4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a5ae5dd_2e004baa",
+        "filename": "res/values-fr/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 4808
+      },
+      "writtenOn": "2014-01-05T13:09:31Z",
+      "side": 1,
+      "message": "Les appareilS",
+      "revId": "f10883b066906532bf7cbea386d60ca8d20ee8a4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a5ae5dd_ce2bb732",
+        "filename": "res/values-fr/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 33,
+      "author": {
+        "id": 4808
+      },
+      "writtenOn": "2014-01-05T13:09:31Z",
+      "side": 1,
+      "message": "saut de ligne",
+      "revId": "f10883b066906532bf7cbea386d60ca8d20ee8a4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a5ae5dd_ee30f3a0",
+        "filename": "res/values-fr/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 47,
+      "author": {
+        "id": 4808
+      },
+      "writtenOn": "2014-01-05T13:09:31Z",
+      "side": 1,
+      "message": "Pour les caractères spéciaux il faut préférer le code \\u2026 \u003d …",
+      "revId": "f10883b066906532bf7cbea386d60ca8d20ee8a4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a5ae5dd_8e25bf5d",
+        "filename": "res/values-fr/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 49,
+      "author": {
+        "id": 4808
+      },
+      "writtenOn": "2014-01-05T13:09:31Z",
+      "side": 1,
+      "message": "idem  \\u2026",
+      "revId": "f10883b066906532bf7cbea386d60ca8d20ee8a4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a5ae5dd_ae2afb2a",
+        "filename": "res/values-fr/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 50,
+      "author": {
+        "id": 4808
+      },
+      "writtenOn": "2014-01-05T13:09:31Z",
+      "side": 1,
+      "message": "espace insécable avant le \"!\"",
+      "revId": "f10883b066906532bf7cbea386d60ca8d20ee8a4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a5ae5dd_4e20274a",
+        "filename": "res/values-fr/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 74,
+      "author": {
+        "id": 4808
+      },
+      "writtenOn": "2014-01-05T13:09:31Z",
+      "side": 1,
+      "message": "Supprimer",
+      "revId": "f10883b066906532bf7cbea386d60ca8d20ee8a4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a5ae5dd_6e1de30e",
+        "filename": "res/values-fr/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 85,
+      "author": {
+        "id": 4808
+      },
+      "writtenOn": "2014-01-05T13:09:31Z",
+      "side": 1,
+      "message": "scannée",
+      "revId": "f10883b066906532bf7cbea386d60ca8d20ee8a4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a5ae5dd_0e1a2f18",
+        "filename": "res/values-fr/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 121,
+      "author": {
+        "id": 4808
+      },
+      "writtenOn": "2014-01-05T13:09:31Z",
+      "side": 1,
+      "message": "le code à 6 chiffres que vous entendrez ci-dessous. ?????",
+      "revId": "f10883b066906532bf7cbea386d60ca8d20ee8a4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a5ae5dd_ced2d734",
+        "filename": "res/values-fr/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 143,
+      "author": {
+        "id": 4808
+      },
+      "writtenOn": "2014-01-05T13:09:31Z",
+      "side": 1,
+      "message": "\"qu\\\u0027un\" \u003c\u003d sans espace",
+      "revId": "f10883b066906532bf7cbea386d60ca8d20ee8a4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a5ae5dd_8edcdf47",
+        "filename": "res/values-fr/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 155,
+      "author": {
+        "id": 4808
+      },
+      "writtenOn": "2014-01-05T13:09:31Z",
+      "side": 1,
+      "message": "l\\\u0027inscription sera terminée",
+      "revId": "f10883b066906532bf7cbea386d60ca8d20ee8a4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a5ae5dd_aee19b00",
+        "filename": "res/values-fr/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 160,
+      "author": {
+        "id": 4808
+      },
+      "writtenOn": "2014-01-05T13:09:31Z",
+      "side": 1,
+      "message": "E majuscule avec accent",
+      "revId": "f10883b066906532bf7cbea386d60ca8d20ee8a4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a5ae5dd_4ee7c712",
+        "filename": "res/values-fr/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 169,
+      "author": {
+        "id": 4808
+      },
+      "writtenOn": "2014-01-05T13:09:31Z",
+      "side": 1,
+      "message": "s\\\u0027est déroulée correctement",
+      "revId": "f10883b066906532bf7cbea386d60ca8d20ee8a4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a5ae5dd_6ee4030d",
+        "filename": "res/values-fr/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 172,
+      "author": {
+        "id": 4808
+      },
+      "writtenOn": "2014-01-05T13:09:31Z",
+      "side": 1,
+      "message": "identité au singulier",
+      "revId": "f10883b066906532bf7cbea386d60ca8d20ee8a4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a5ae5dd_0ef1cfcd",
+        "filename": "res/values-fr/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 175,
+      "author": {
+        "id": 4808
+      },
+      "writtenOn": "2014-01-05T13:09:31Z",
+      "side": 1,
+      "message": "Cela peut vouloir dire que",
+      "revId": "f10883b066906532bf7cbea386d60ca8d20ee8a4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a5ae5dd_2eee0bed",
+        "filename": "res/values-fr/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 189,
+      "author": {
+        "id": 4808
+      },
+      "writtenOn": "2014-01-05T13:09:31Z",
+      "side": 1,
+      "message": "supprimer les lignes vides",
+      "revId": "f10883b066906532bf7cbea386d60ca8d20ee8a4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
