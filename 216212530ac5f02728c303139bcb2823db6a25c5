@@ -1,0 +1,89 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5a5ae5dd_d4ed8a8f",
+        "filename": "res/values-fr/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 35,
+      "author": {
+        "id": 4808
+      },
+      "writtenOn": "2014-01-06T13:53:19Z",
+      "side": 1,
+      "message": "Les appareils ayant une version d\\\u0027Android 4.0 ou plus",
+      "revId": "216212530ac5f02728c303139bcb2823db6a25c5",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a5ae5dd_34e2dea0",
+        "filename": "res/values-fr/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 4808
+      },
+      "writtenOn": "2014-01-06T13:53:19Z",
+      "side": 1,
+      "message": "Nous allons maintenant vérifier",
+      "revId": "216212530ac5f02728c303139bcb2823db6a25c5",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a5ae5dd_947b927b",
+        "filename": "res/values-fr/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 48,
+      "author": {
+        "id": 4808
+      },
+      "writtenOn": "2014-01-06T13:53:19Z",
+      "side": 1,
+      "message": "espace insécable \u003d \\u00A0",
+      "revId": "216212530ac5f02728c303139bcb2823db6a25c5",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a5ae5dd_b4d56eba",
+        "filename": "res/values-fr/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 106,
+      "author": {
+        "id": 4808
+      },
+      "writtenOn": "2014-01-06T13:53:19Z",
+      "side": 1,
+      "message": "\"...SMS de confirmation\". Comme pour \"registration_progress_activity__textsecure_will_now_automatically_verify_your_numb\ner_with_a_confirmation_sms_message\" ligne 104",
+      "revId": "216212530ac5f02728c303139bcb2823db6a25c5",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a5ae5dd_94d072cb",
+        "filename": "res/values-fr/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 120,
+      "author": {
+        "id": 4808
+      },
+      "writtenOn": "2014-01-06T13:53:19Z",
+      "side": 1,
+      "message": "à un nouveau téléphone.\n\nvalider l\\\u0027empreinte d\\\u0027identité ci-dessous. Supprimer \"en lui lisant\", cela ne fais pas très fluide comme phrase et c\u0027est évident.",
+      "revId": "216212530ac5f02728c303139bcb2823db6a25c5",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
