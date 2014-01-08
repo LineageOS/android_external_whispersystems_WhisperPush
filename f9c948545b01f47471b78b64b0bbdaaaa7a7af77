@@ -1,0 +1,922 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5a5ae5dd_518d277a",
+        "filename": "res/values-hu/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 3214
+      },
+      "writtenOn": "2014-01-08T10:38:36Z",
+      "side": 1,
+      "message": "Felesleges szóköz/akármi a sor végén",
+      "revId": "f9c948545b01f47471b78b64b0bbdaaaa7a7af77",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a5ae5dd_f1e8d318",
+        "filename": "res/values-hu/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 3214
+      },
+      "writtenOn": "2014-01-08T10:38:36Z",
+      "side": 1,
+      "message": "Felesleges szóköz/akármi a sor végén",
+      "revId": "f9c948545b01f47471b78b64b0bbdaaaa7a7af77",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a5ae5dd_11eecf22",
+        "filename": "res/values-hu/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 3214
+      },
+      "writtenOn": "2014-01-08T10:38:36Z",
+      "side": 1,
+      "message": "Felesleges szóköz/akármi a sor végén",
+      "revId": "f9c948545b01f47471b78b64b0bbdaaaa7a7af77",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a5ae5dd_b1f25b05",
+        "filename": "res/values-hu/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 3214
+      },
+      "writtenOn": "2014-01-08T10:38:36Z",
+      "side": 1,
+      "message": "Nem kell a pont",
+      "revId": "f9c948545b01f47471b78b64b0bbdaaaa7a7af77",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a5ae5dd_71ddc36f",
+        "filename": "res/values-hu/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 3214
+      },
+      "writtenOn": "2014-01-08T10:38:36Z",
+      "side": 1,
+      "message": "Nem kell a pont. Felesleges szóköz/akármi a sor végén",
+      "revId": "f9c948545b01f47471b78b64b0bbdaaaa7a7af77",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a5ae5dd_91dabf77",
+        "filename": "res/values-hu/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 3214
+      },
+      "writtenOn": "2014-01-08T10:38:36Z",
+      "side": 1,
+      "message": "Nem kell a pont. Felesleges szóköz/akármi a sor végén",
+      "revId": "f9c948545b01f47471b78b64b0bbdaaaa7a7af77",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a5ae5dd_31e74b42",
+        "filename": "res/values-hu/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 3214
+      },
+      "writtenOn": "2014-01-08T10:38:36Z",
+      "side": 1,
+      "message": "Felesleges szóköz/akármi a sor végén",
+      "revId": "f9c948545b01f47471b78b64b0bbdaaaa7a7af77",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a5ae5dd_51e4473a",
+        "filename": "res/values-hu/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 35,
+      "author": {
+        "id": 3214
+      },
+      "writtenOn": "2014-01-08T10:38:36Z",
+      "side": 1,
+      "message": "Felesleges szóköz/akármi a sor végén",
+      "revId": "f9c948545b01f47471b78b64b0bbdaaaa7a7af77",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a5ae5dd_f1cf73b1",
+        "filename": "res/values-hu/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 37,
+      "author": {
+        "id": 3214
+      },
+      "writtenOn": "2014-01-08T10:38:36Z",
+      "side": 1,
+      "message": "Felesleges szóköz/akármi a sor elején",
+      "revId": "f9c948545b01f47471b78b64b0bbdaaaa7a7af77",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a5ae5dd_11d56f42",
+        "filename": "res/values-hu/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 39,
+      "author": {
+        "id": 3214
+      },
+      "writtenOn": "2014-01-08T10:38:36Z",
+      "side": 1,
+      "message": "Felesleges szóköz/akármi a sor végén",
+      "revId": "f9c948545b01f47471b78b64b0bbdaaaa7a7af77",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a5ae5dd_b1c9fbae",
+        "filename": "res/values-hu/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 52,
+      "author": {
+        "id": 3214
+      },
+      "writtenOn": "2014-01-08T10:38:36Z",
+      "side": 1,
+      "message": "a három pont helyett \\u2026",
+      "revId": "f9c948545b01f47471b78b64b0bbdaaaa7a7af77",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a5ae5dd_d1cef7b3",
+        "filename": "res/values-hu/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 54,
+      "author": {
+        "id": 3214
+      },
+      "writtenOn": "2014-01-08T10:38:36Z",
+      "side": 1,
+      "message": "\\u2026",
+      "revId": "f9c948545b01f47471b78b64b0bbdaaaa7a7af77",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a5ae5dd_71c4e391",
+        "filename": "res/values-hu/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 56,
+      "author": {
+        "id": 3214
+      },
+      "writtenOn": "2014-01-08T10:38:36Z",
+      "side": 1,
+      "message": "A \"Kérem\" szóról leszoktattatok, nem?",
+      "revId": "f9c948545b01f47471b78b64b0bbdaaaa7a7af77",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a5ae5dd_91c15f83",
+        "filename": "res/values-hu/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 58,
+      "author": {
+        "id": 3214
+      },
+      "writtenOn": "2014-01-08T10:38:36Z",
+      "side": 1,
+      "message": "Kérem nélkül?",
+      "revId": "f9c948545b01f47471b78b64b0bbdaaaa7a7af77",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a5ae5dd_31be6b00",
+        "filename": "res/values-hu/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 60,
+      "author": {
+        "id": 3214
+      },
+      "writtenOn": "2014-01-08T10:38:36Z",
+      "side": 1,
+      "message": "Kérem nélkül?",
+      "revId": "f9c948545b01f47471b78b64b0bbdaaaa7a7af77",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a5ae5dd_51bbe70e",
+        "filename": "res/values-hu/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 62,
+      "author": {
+        "id": 3214
+      },
+      "writtenOn": "2014-01-08T10:38:36Z",
+      "side": 1,
+      "message": "\\u2026",
+      "revId": "f9c948545b01f47471b78b64b0bbdaaaa7a7af77",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a5ae5dd_113c8f92",
+        "filename": "res/values-hu/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 64,
+      "author": {
+        "id": 3214
+      },
+      "writtenOn": "2014-01-08T10:38:36Z",
+      "side": 1,
+      "message": "Ezt mintha én írtam volna.\n\"Szerverhiba. Próbálja újra.\"?",
+      "revId": "f9c948545b01f47471b78b64b0bbdaaaa7a7af77",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a5ae5dd_b1401b09",
+        "filename": "res/values-hu/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 67,
+      "author": {
+        "id": 3214
+      },
+      "writtenOn": "2014-01-08T10:38:36Z",
+      "side": 1,
+      "message": "\\u2026",
+      "revId": "f9c948545b01f47471b78b64b0bbdaaaa7a7af77",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a5ae5dd_714b832c",
+        "filename": "res/values-hu/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 71,
+      "author": {
+        "id": 3214
+      },
+      "writtenOn": "2014-01-08T10:38:36Z",
+      "side": 1,
+      "message": "Itt miért van ekkora hely?",
+      "revId": "f9c948545b01f47471b78b64b0bbdaaaa7a7af77",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a5ae5dd_31550bc6",
+        "filename": "res/values-hu/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 76,
+      "author": {
+        "id": 3214
+      },
+      "writtenOn": "2014-01-08T10:38:36Z",
+      "side": 1,
+      "message": "Felesleges szóköz/akármi a sor végén",
+      "revId": "f9c948545b01f47471b78b64b0bbdaaaa7a7af77",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a5ae5dd_515207df",
+        "filename": "res/values-hu/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 84,
+      "author": {
+        "id": 3214
+      },
+      "writtenOn": "2014-01-08T10:38:36Z",
+      "side": 1,
+      "message": "Itt is hely",
+      "revId": "f9c948545b01f47471b78b64b0bbdaaaa7a7af77",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a5ae5dd_f15d33ed",
+        "filename": "res/values-hu/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 85,
+      "author": {
+        "id": 3214
+      },
+      "writtenOn": "2014-01-08T10:38:36Z",
+      "side": 1,
+      "message": "Itt is",
+      "revId": "f9c948545b01f47471b78b64b0bbdaaaa7a7af77",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a5ae5dd_11632fb3",
+        "filename": "res/values-hu/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 88,
+      "author": {
+        "id": 3214
+      },
+      "writtenOn": "2014-01-08T10:38:36Z",
+      "side": 1,
+      "message": "\\u2026",
+      "revId": "f9c948545b01f47471b78b64b0bbdaaaa7a7af77",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a5ae5dd_b157bbc9",
+        "filename": "res/values-hu/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 96,
+      "author": {
+        "id": 3214
+      },
+      "writtenOn": "2014-01-08T10:38:36Z",
+      "side": 1,
+      "message": "Felesleges szóköz/akármi a sor végén",
+      "revId": "f9c948545b01f47471b78b64b0bbdaaaa7a7af77",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a5ae5dd_d15cb7ef",
+        "filename": "res/values-hu/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 102,
+      "author": {
+        "id": 3214
+      },
+      "writtenOn": "2014-01-08T10:38:36Z",
+      "side": 1,
+      "message": "\\u2026",
+      "revId": "f9c948545b01f47471b78b64b0bbdaaaa7a7af77",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a5ae5dd_7172a37e",
+        "filename": "res/values-hu/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 108,
+      "author": {
+        "id": 3214
+      },
+      "writtenOn": "2014-01-08T10:38:36Z",
+      "side": 1,
+      "message": "Felesleges szóköz/akármi a sor végén",
+      "revId": "f9c948545b01f47471b78b64b0bbdaaaa7a7af77",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a5ae5dd_316c2b9c",
+        "filename": "res/values-hu/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 114,
+      "author": {
+        "id": 3214
+      },
+      "writtenOn": "2014-01-08T10:38:36Z",
+      "side": 1,
+      "message": "Ezt élesben jó lenne látni, hogy kell-e ide szóköz.",
+      "revId": "f9c948545b01f47471b78b64b0bbdaaaa7a7af77",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a5ae5dd_5169a78a",
+        "filename": "res/values-hu/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 117,
+      "author": {
+        "id": 3214
+      },
+      "writtenOn": "2014-01-08T10:38:36Z",
+      "side": 1,
+      "message": "Felesleges szóköz/akármi a sor elején",
+      "revId": "f9c948545b01f47471b78b64b0bbdaaaa7a7af77",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a5ae5dd_f10453c7",
+        "filename": "res/values-hu/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 118,
+      "author": {
+        "id": 3214
+      },
+      "writtenOn": "2014-01-08T10:38:36Z",
+      "side": 1,
+      "message": "Felesleges szóköz/akármi a sor végén",
+      "revId": "f9c948545b01f47471b78b64b0bbdaaaa7a7af77",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a5ae5dd_110a4fd3",
+        "filename": "res/values-hu/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 121,
+      "author": {
+        "id": 3214
+      },
+      "writtenOn": "2014-01-08T10:38:36Z",
+      "side": 1,
+      "message": "Felesleges szóköz/akármi a sor elején",
+      "revId": "f9c948545b01f47471b78b64b0bbdaaaa7a7af77",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a5ae5dd_b10edbe3",
+        "filename": "res/values-hu/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 122,
+      "author": {
+        "id": 3214
+      },
+      "writtenOn": "2014-01-08T10:38:36Z",
+      "side": 1,
+      "message": "Felesleges szóköz/akármi a sor végén",
+      "revId": "f9c948545b01f47471b78b64b0bbdaaaa7a7af77",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a5ae5dd_d113570c",
+        "filename": "res/values-hu/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 125,
+      "author": {
+        "id": 3214
+      },
+      "writtenOn": "2014-01-08T10:38:36Z",
+      "side": 1,
+      "message": "Felesleges szóköz/akármi a sor elején",
+      "revId": "f9c948545b01f47471b78b64b0bbdaaaa7a7af77",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a5ae5dd_71f943c8",
+        "filename": "res/values-hu/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 126,
+      "author": {
+        "id": 3214
+      },
+      "writtenOn": "2014-01-08T10:38:36Z",
+      "side": 1,
+      "message": "Felesleges szóköz/akármi a sor végén",
+      "revId": "f9c948545b01f47471b78b64b0bbdaaaa7a7af77",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a5ae5dd_91f63fd6",
+        "filename": "res/values-hu/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 131,
+      "author": {
+        "id": 3214
+      },
+      "writtenOn": "2014-01-08T10:38:36Z",
+      "side": 1,
+      "message": "Felesleges szóköz/akármi a sor elején",
+      "revId": "f9c948545b01f47471b78b64b0bbdaaaa7a7af77",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a5ae5dd_3103cbba",
+        "filename": "res/values-hu/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 132,
+      "author": {
+        "id": 3214
+      },
+      "writtenOn": "2014-01-08T10:38:36Z",
+      "side": 1,
+      "message": "Felesleges szóköz/akármi a sor végén",
+      "revId": "f9c948545b01f47471b78b64b0bbdaaaa7a7af77",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a5ae5dd_5100c7aa",
+        "filename": "res/values-hu/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 138,
+      "author": {
+        "id": 3214
+      },
+      "writtenOn": "2014-01-08T10:38:36Z",
+      "side": 1,
+      "message": "Felesleges szóköz/akármi a sor elején",
+      "revId": "f9c948545b01f47471b78b64b0bbdaaaa7a7af77",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a5ae5dd_f12bf331",
+        "filename": "res/values-hu/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 139,
+      "author": {
+        "id": 3214
+      },
+      "writtenOn": "2014-01-08T10:38:36Z",
+      "side": 1,
+      "message": "Felesleges szóköz/akármi a sor végén",
+      "revId": "f9c948545b01f47471b78b64b0bbdaaaa7a7af77",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a5ae5dd_1131efa2",
+        "filename": "res/values-hu/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 141,
+      "author": {
+        "id": 3214
+      },
+      "writtenOn": "2014-01-08T10:38:36Z",
+      "side": 1,
+      "message": "Ezt élesben jó lenne látni, hogy kell-e ide szóköz.",
+      "revId": "f9c948545b01f47471b78b64b0bbdaaaa7a7af77",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a5ae5dd_b1257b5d",
+        "filename": "res/values-hu/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 143,
+      "author": {
+        "id": 3214
+      },
+      "writtenOn": "2014-01-08T10:38:36Z",
+      "side": 1,
+      "message": "Felesleges szóköz/akármi a sor végén",
+      "revId": "f9c948545b01f47471b78b64b0bbdaaaa7a7af77",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a5ae5dd_d12a772c",
+        "filename": "res/values-hu/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 145,
+      "author": {
+        "id": 3214
+      },
+      "writtenOn": "2014-01-08T10:38:36Z",
+      "side": 1,
+      "message": "Felesleges szóköz/akármi a sor végén",
+      "revId": "f9c948545b01f47471b78b64b0bbdaaaa7a7af77",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a5ae5dd_7120634a",
+        "filename": "res/values-hu/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 147,
+      "author": {
+        "id": 3214
+      },
+      "writtenOn": "2014-01-08T10:38:36Z",
+      "side": 1,
+      "message": "Felesleges szóköz/akármi a sor végén",
+      "revId": "f9c948545b01f47471b78b64b0bbdaaaa7a7af77",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a5ae5dd_911ddf11",
+        "filename": "res/values-hu/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 149,
+      "author": {
+        "id": 3214
+      },
+      "writtenOn": "2014-01-08T10:38:36Z",
+      "side": 1,
+      "message": "Felesleges szóköz/akármi a sor elején",
+      "revId": "f9c948545b01f47471b78b64b0bbdaaaa7a7af77",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a5ae5dd_311aeb18",
+        "filename": "res/values-hu/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 150,
+      "author": {
+        "id": 3214
+      },
+      "writtenOn": "2014-01-08T10:38:36Z",
+      "side": 1,
+      "message": "Felesleges szóköz/akármi a sor végén",
+      "revId": "f9c948545b01f47471b78b64b0bbdaaaa7a7af77",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a5ae5dd_d1e11700",
+        "filename": "res/values-hu/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 152,
+      "author": {
+        "id": 3214
+      },
+      "writtenOn": "2014-01-08T10:38:36Z",
+      "side": 1,
+      "message": "Felesleges szóköz/akármi a sor elején/végén",
+      "revId": "f9c948545b01f47471b78b64b0bbdaaaa7a7af77",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a5ae5dd_71e70313",
+        "filename": "res/values-hu/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 153,
+      "author": {
+        "id": 3214
+      },
+      "writtenOn": "2014-01-08T10:38:36Z",
+      "side": 1,
+      "message": "Felesleges szóköz/akármi a sor elején/végén",
+      "revId": "f9c948545b01f47471b78b64b0bbdaaaa7a7af77",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a5ae5dd_511767ed",
+        "filename": "res/values-hu/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 155,
+      "author": {
+        "id": 3214
+      },
+      "writtenOn": "2014-01-08T10:38:36Z",
+      "side": 1,
+      "message": "\\u2026",
+      "revId": "f9c948545b01f47471b78b64b0bbdaaaa7a7af77",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a5ae5dd_f1d21334",
+        "filename": "res/values-hu/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 156,
+      "author": {
+        "id": 3214
+      },
+      "writtenOn": "2014-01-08T10:38:36Z",
+      "side": 1,
+      "message": "\\u2026",
+      "revId": "f9c948545b01f47471b78b64b0bbdaaaa7a7af77",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a5ae5dd_91e4ff0d",
+        "filename": "res/values-hu/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 159,
+      "author": {
+        "id": 3214
+      },
+      "writtenOn": "2014-01-08T10:38:36Z",
+      "side": 1,
+      "message": "Felesleges szóköz/akármi a sor elején/végén",
+      "revId": "f9c948545b01f47471b78b64b0bbdaaaa7a7af77",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a5ae5dd_31f18bce",
+        "filename": "res/values-hu/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 161,
+      "author": {
+        "id": 3214
+      },
+      "writtenOn": "2014-01-08T10:38:36Z",
+      "side": 1,
+      "message": "Felesleges szóköz/akármi a sor elején/végén",
+      "revId": "f9c948545b01f47471b78b64b0bbdaaaa7a7af77",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a5ae5dd_51ee87ed",
+        "filename": "res/values-hu/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 164,
+      "author": {
+        "id": 3214
+      },
+      "writtenOn": "2014-01-08T10:38:36Z",
+      "side": 1,
+      "message": "Felesleges szóköz/akármi a sor elején/végén",
+      "revId": "f9c948545b01f47471b78b64b0bbdaaaa7a7af77",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a5ae5dd_11d80f53",
+        "filename": "res/values-hu/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 166,
+      "author": {
+        "id": 3214
+      },
+      "writtenOn": "2014-01-08T10:38:36Z",
+      "side": 1,
+      "message": "\\u2026",
+      "revId": "f9c948545b01f47471b78b64b0bbdaaaa7a7af77",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a5ae5dd_f1b9b3ed",
+        "filename": "res/values-hu/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 173,
+      "author": {
+        "id": 3214
+      },
+      "writtenOn": "2014-01-08T10:38:36Z",
+      "side": 1,
+      "message": "Felesleges szóköz/akármi a sor elején/végén",
+      "revId": "f9c948545b01f47471b78b64b0bbdaaaa7a7af77",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a5ae5dd_11bfafd1",
+        "filename": "res/values-hu/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 183,
+      "author": {
+        "id": 3214
+      },
+      "writtenOn": "2014-01-08T10:38:36Z",
+      "side": 1,
+      "message": "Felesleges szóköz/akármi a sor elején/végén",
+      "revId": "f9c948545b01f47471b78b64b0bbdaaaa7a7af77",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a5ae5dd_b1dc9b47",
+        "filename": "res/values-hu/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 193,
+      "author": {
+        "id": 3214
+      },
+      "writtenOn": "2014-01-08T10:38:36Z",
+      "side": 1,
+      "message": "BeolvasTATás ... a TAT tutti kell?",
+      "revId": "f9c948545b01f47471b78b64b0bbdaaaa7a7af77",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
