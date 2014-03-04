@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bae84128_f2eda626",
+        "filename": "AndroidManifest.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 74,
+      "author": {
+        "id": 116
+      },
+      "writtenOn": "2014-03-04T15:05:12Z",
+      "side": 1,
+      "message": "Whitespace error",
+      "revId": "bb37cb099ccf5f9f9f8d3df9486cce39b57d3020",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bae84128_32f8aee5",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 178,
+      "author": {
+        "id": 116
+      },
+      "writtenOn": "2014-03-04T15:05:12Z",
+      "side": 1,
+      "message": "Whitespace!",
+      "revId": "bb37cb099ccf5f9f9f8d3df9486cce39b57d3020",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bae84128_72da367a",
+        "filename": "src/org/whispersystems/whisperpush/service/RegistrationService.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 391,
+      "author": {
+        "id": 116
+      },
+      "writtenOn": "2014-03-04T15:05:12Z",
+      "side": 1,
+      "message": "I\u0027d say stop aligning these, but if we are keeping the alignment, 9 and 10 need fixing.",
+      "revId": "bb37cb099ccf5f9f9f8d3df9486cce39b57d3020",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
