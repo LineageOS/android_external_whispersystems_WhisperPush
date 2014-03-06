@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bae84128_5b20ed9b",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 1
+      },
+      "writtenOn": "2014-03-06T22:51:06Z",
+      "side": 1,
+      "message": "Please leave the Whisper Systems copyright intact.  You can insert another copyright line for The CyanogenMod Project directly below it.",
+      "revId": "bd13d53537f08abe49959f0f9df02cd7f79b65b8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
