@@ -16,6 +16,24 @@
       "revId": "bd13d53537f08abe49959f0f9df02cd7f79b65b8",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bae84128_bbbbf90d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2014-03-07T07:15:55Z",
+      "side": 1,
+      "message": "Chris, this is copied exactly like it is in English\n\nhttp://review.cyanogenmod.org/#/c/60624/2/res/values/strings.xml",
+      "parentUuid": "bae84128_5b20ed9b",
+      "revId": "bd13d53537f08abe49959f0f9df02cd7f79b65b8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
