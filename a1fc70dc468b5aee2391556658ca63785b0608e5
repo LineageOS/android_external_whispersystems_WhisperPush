@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bae84128_66ac38ee",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 146,
+      "author": {
+        "id": 7630
+      },
+      "writtenOn": "2014-03-08T04:48:43Z",
+      "side": 1,
+      "message": "-1 Zal aan mij liggen maar een vingerafdruk hardop lezen? Hoe doe je dat?",
+      "revId": "a1fc70dc468b5aee2391556658ca63785b0608e5",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
