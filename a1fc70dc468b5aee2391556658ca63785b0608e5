@@ -16,6 +16,24 @@
       "revId": "a1fc70dc468b5aee2391556658ca63785b0608e5",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bae84128_8677bcd3",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 146,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2014-03-09T09:50:23Z",
+      "side": 1,
+      "message": "contactpersoon \u003e\u003e contact\n\n@Tom: dit is een \u0027software-vingerafdruk/fingerprint\u0027: https://en.wikipedia.org/wiki/Fingerprint_(computing)\n\nOm precies te zijn: https://en.wikipedia.org/wiki/Public_key_fingerprint",
+      "parentUuid": "bae84128_66ac38ee",
+      "revId": "a1fc70dc468b5aee2391556658ca63785b0608e5",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
