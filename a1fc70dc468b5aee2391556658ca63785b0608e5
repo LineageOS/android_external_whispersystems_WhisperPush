@@ -34,6 +34,24 @@
       "revId": "a1fc70dc468b5aee2391556658ca63785b0608e5",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bae84128_01b6f6db",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 146,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2014-03-10T02:39:46Z",
+      "side": 1,
+      "message": "zie ook regel 140",
+      "parentUuid": "bae84128_8677bcd3",
+      "revId": "a1fc70dc468b5aee2391556658ca63785b0608e5",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
