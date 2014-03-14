@@ -1,0 +1,225 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bae84128_efbe58fe",
+        "filename": "res/values-de/cm_strings.xml",
+        "patchSetId": 7
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 4977
+      },
+      "writtenOn": "2014-03-14T02:10:43Z",
+      "side": 1,
+      "message": "Das Fragezeichen am Ende des zweiten Satzes passt nicht.\nVorschlag: Ist Ihr Client aktuell?",
+      "revId": "af04c9f92c88938e75a0f5a240cb0c08dc08440c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bae84128_cfbb940d",
+        "filename": "res/values-de/cm_strings.xml",
+        "patchSetId": 7
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 4977
+      },
+      "writtenOn": "2014-03-14T02:10:43Z",
+      "side": 1,
+      "message": "\"benoetigen Validierung\" klingt komisch.\n\nVorschlag: Validierung fuer %d ausstehende Nachrichten benoetigt",
+      "revId": "af04c9f92c88938e75a0f5a240cb0c08dc08440c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bae84128_2f37a0b1",
+        "filename": "res/values-de/cm_strings.xml",
+        "patchSetId": 7
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 4977
+      },
+      "writtenOn": "2014-03-14T02:10:43Z",
+      "side": 1,
+      "message": "s.o.",
+      "revId": "af04c9f92c88938e75a0f5a240cb0c08dc08440c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bae84128_0f3c5c92",
+        "filename": "res/values-de/cm_strings.xml",
+        "patchSetId": 7
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 4977
+      },
+      "writtenOn": "2014-03-14T02:10:43Z",
+      "side": 1,
+      "message": ", die von Ihnen",
+      "revId": "af04c9f92c88938e75a0f5a240cb0c08dc08440c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bae84128_6f41a80b",
+        "filename": "res/values-de/cm_strings.xml",
+        "patchSetId": 7
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 4977
+      },
+      "writtenOn": "2014-03-14T02:10:43Z",
+      "side": 1,
+      "message": "aelter als 4.0",
+      "revId": "af04c9f92c88938e75a0f5a240cb0c08dc08440c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bae84128_4f466424",
+        "filename": "res/values-de/cm_strings.xml",
+        "patchSetId": 7
+      },
+      "lineNbr": 42,
+      "author": {
+        "id": 4977
+      },
+      "writtenOn": "2014-03-14T02:10:43Z",
+      "side": 1,
+      "message": "korrekt oder moechten",
+      "revId": "af04c9f92c88938e75a0f5a240cb0c08dc08440c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bae84128_af4bb02a",
+        "filename": "res/values-de/cm_strings.xml",
+        "patchSetId": 7
+      },
+      "lineNbr": 56,
+      "author": {
+        "id": 4977
+      },
+      "writtenOn": "2014-03-14T02:10:43Z",
+      "side": 1,
+      "message": "eingegebene",
+      "revId": "af04c9f92c88938e75a0f5a240cb0c08dc08440c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bae84128_8f486c2f",
+        "filename": "res/values-de/cm_strings.xml",
+        "patchSetId": 7
+      },
+      "lineNbr": 64,
+      "author": {
+        "id": 4977
+      },
+      "writtenOn": "2014-03-14T02:10:43Z",
+      "side": 1,
+      "message": "sollte 20 Minuten nicht dynamisch berechnet und entsprechend %d Minuten angezeigt werden?",
+      "revId": "af04c9f92c88938e75a0f5a240cb0c08dc08440c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bae84128_ef55b8c6",
+        "filename": "res/values-de/cm_strings.xml",
+        "patchSetId": 7
+      },
+      "lineNbr": 70,
+      "author": {
+        "id": 4977
+      },
+      "writtenOn": "2014-03-14T02:10:43Z",
+      "side": 1,
+      "message": "???",
+      "revId": "af04c9f92c88938e75a0f5a240cb0c08dc08440c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bae84128_cf5274dd",
+        "filename": "res/values-de/cm_strings.xml",
+        "patchSetId": 7
+      },
+      "lineNbr": 79,
+      "author": {
+        "id": 4977
+      },
+      "writtenOn": "2014-03-14T02:10:43Z",
+      "side": 1,
+      "message": "ein Schluessel stimmt nicht (mit sich selbst) ueberein?",
+      "revId": "af04c9f92c88938e75a0f5a240cb0c08dc08440c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bae84128_2f5e80e9",
+        "filename": "res/values-de/cm_strings.xml",
+        "patchSetId": 7
+      },
+      "lineNbr": 90,
+      "author": {
+        "id": 4977
+      },
+      "writtenOn": "2014-03-14T02:10:43Z",
+      "side": 1,
+      "message": ", z, B. Handcent oder GoSMS,..\n\ninkorrektes Verhalten?\n\nApp vs. Anwendung",
+      "revId": "af04c9f92c88938e75a0f5a240cb0c08dc08440c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bae84128_0f63bcb2",
+        "filename": "res/values-de/cm_strings.xml",
+        "patchSetId": 7
+      },
+      "lineNbr": 92,
+      "author": {
+        "id": 4977
+      },
+      "writtenOn": "2014-03-14T02:10:43Z",
+      "side": 1,
+      "message": "und diese das richtige Format",
+      "revId": "af04c9f92c88938e75a0f5a240cb0c08dc08440c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bae84128_6f5888fb",
+        "filename": "res/values-de/cm_strings.xml",
+        "patchSetId": 7
+      },
+      "lineNbr": 96,
+      "author": {
+        "id": 4977
+      },
+      "writtenOn": "2014-03-14T02:10:43Z",
+      "side": 1,
+      "message": "sechsstelligen",
+      "revId": "af04c9f92c88938e75a0f5a240cb0c08dc08440c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
