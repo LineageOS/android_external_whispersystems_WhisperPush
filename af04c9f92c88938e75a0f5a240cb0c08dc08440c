@@ -89,6 +89,24 @@
     },
     {
       "key": {
+        "uuid": "bae84128_b2ce7381",
+        "filename": "res/values-de/cm_strings.xml",
+        "patchSetId": 7
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 4977
+      },
+      "writtenOn": "2014-03-14T19:59:44Z",
+      "side": 1,
+      "message": "klingt gut, nachricht bitte mit grossem N ;)",
+      "parentUuid": "bae84128_ef4e58c0",
+      "revId": "af04c9f92c88938e75a0f5a240cb0c08dc08440c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "bae84128_0f3c5c92",
         "filename": "res/values-de/cm_strings.xml",
         "patchSetId": 7
@@ -124,6 +142,24 @@
     },
     {
       "key": {
+        "uuid": "bae84128_92cb6f72",
+        "filename": "res/values-de/cm_strings.xml",
+        "patchSetId": 7
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 4977
+      },
+      "writtenOn": "2014-03-14T19:59:44Z",
+      "side": 1,
+      "message": "Im Grunde schon, klingt weniger nach Umgangssprache und ist etwas kuerzer. ;)",
+      "parentUuid": "bae84128_cf4b94af",
+      "revId": "af04c9f92c88938e75a0f5a240cb0c08dc08440c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "bae84128_6f41a80b",
         "filename": "res/values-de/cm_strings.xml",
         "patchSetId": 7
@@ -153,6 +189,24 @@
       "side": 1,
       "message": "vor 4.0?",
       "parentUuid": "bae84128_6f41a80b",
+      "revId": "af04c9f92c88938e75a0f5a240cb0c08dc08440c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bae84128_f2c8fb76",
+        "filename": "res/values-de/cm_strings.xml",
+        "patchSetId": 7
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 4977
+      },
+      "writtenOn": "2014-03-14T19:59:44Z",
+      "side": 1,
+      "message": "ok",
+      "parentUuid": "bae84128_0f657c44",
       "revId": "af04c9f92c88938e75a0f5a240cb0c08dc08440c",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -264,6 +318,24 @@
     },
     {
       "key": {
+        "uuid": "bae84128_d2c5f75b",
+        "filename": "res/values-de/cm_strings.xml",
+        "patchSetId": 7
+      },
+      "lineNbr": 64,
+      "author": {
+        "id": 4977
+      },
+      "writtenOn": "2014-03-14T19:59:44Z",
+      "side": 1,
+      "message": "ok",
+      "parentUuid": "bae84128_cf7434ff",
+      "revId": "af04c9f92c88938e75a0f5a240cb0c08dc08440c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "bae84128_ef55b8c6",
         "filename": "res/values-de/cm_strings.xml",
         "patchSetId": 7
@@ -293,6 +365,24 @@
       "side": 1,
       "message": "Hey ich hab das nur übersetzt. :-)\nSchein so als ob Koush da was nicht vollständig implementiert hat.",
       "parentUuid": "bae84128_ef55b8c6",
+      "revId": "af04c9f92c88938e75a0f5a240cb0c08dc08440c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bae84128_32a1c3aa",
+        "filename": "res/values-de/cm_strings.xml",
+        "patchSetId": 7
+      },
+      "lineNbr": 70,
+      "author": {
+        "id": 4977
+      },
+      "writtenOn": "2014-03-14T19:59:44Z",
+      "side": 1,
+      "message": "ok :)",
+      "parentUuid": "bae84128_0f7e1ce4",
       "revId": "af04c9f92c88938e75a0f5a240cb0c08dc08440c",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
