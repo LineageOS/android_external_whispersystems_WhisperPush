@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bae84128_2d820853",
+        "filename": "res/values-de/cm_strings.xml",
+        "patchSetId": 8
+      },
+      "lineNbr": 79,
+      "author": {
+        "id": 1053
+      },
+      "writtenOn": "2014-03-15T08:15:06Z",
+      "side": 1,
+      "message": "Ich habe leider keine Ahnung mit was dieser eingescannte Schlüssel verglichen wird.",
+      "revId": "1a9fa79986e58cb526b4be64e3db50b336350a7b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
