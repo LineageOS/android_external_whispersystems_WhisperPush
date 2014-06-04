@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "da0c15f0_7b14bbf4",
+        "filename": "src/org/whispersystems/whisperpush/gcm/GcmHelper.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 70,
+      "author": {
+        "id": 1
+      },
+      "writtenOn": "2014-06-04T12:01:59Z",
+      "side": 1,
+      "message": "No need to create a new method, just call getRegistrationId and pass a context.  It will register, and set the new registration id at the same time.",
+      "revId": "258df663938ced13cb8f08a38c8a6b73dbcdde8e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
