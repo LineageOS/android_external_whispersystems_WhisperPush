@@ -1,0 +1,548 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "da0c15f0_1eae4d85",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2014-06-05T10:12:18Z",
+      "side": 1,
+      "message": "A lot of strings in here use Capitals for all words, which we don\u0027t do in CM....can you please change them all?\n\n- Whisperpush error",
+      "revId": "5c1f2b2e3bd929ae7552c63873d2b6459c469f52",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da0c15f0_feaa796f",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2014-06-05T10:12:18Z",
+      "side": 1,
+      "message": "- Invalid push message",
+      "revId": "5c1f2b2e3bd929ae7552c63873d2b6459c469f52",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da0c15f0_5eb605dd",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2014-06-05T10:12:18Z",
+      "side": 1,
+      "message": "- Unsupported push version",
+      "revId": "5c1f2b2e3bd929ae7552c63873d2b6459c469f52",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da0c15f0_3ebb51c6",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 37,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2014-06-05T10:12:18Z",
+      "side": 1,
+      "message": "- New encrypted SMS",
+      "revId": "5c1f2b2e3bd929ae7552c63873d2b6459c469f52",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da0c15f0_9eb09ddf",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 38,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2014-06-05T10:12:18Z",
+      "side": 1,
+      "message": "- View identity",
+      "revId": "5c1f2b2e3bd929ae7552c63873d2b6459c469f52",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da0c15f0_7eb5c9cb",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 49,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2014-06-05T10:12:18Z",
+      "side": 1,
+      "message": "- Select your country",
+      "revId": "5c1f2b2e3bd929ae7552c63873d2b6459c469f52",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da0c15f0_deca154f",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 59,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2014-06-05T10:12:18Z",
+      "side": 1,
+      "message": "- Connect with TextSecure",
+      "revId": "5c1f2b2e3bd929ae7552c63873d2b6459c469f52",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da0c15f0_bec76144",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 62,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2014-06-05T10:12:18Z",
+      "side": 1,
+      "message": "- Possible problems",
+      "revId": "5c1f2b2e3bd929ae7552c63873d2b6459c469f52",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da0c15f0_5e1285b5",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 68,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2014-06-05T10:12:18Z",
+      "side": 1,
+      "message": "remove the \\u2026 here",
+      "revId": "5c1f2b2e3bd929ae7552c63873d2b6459c469f52",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da0c15f0_3e17d1a4",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 69,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2014-06-05T10:12:18Z",
+      "side": 1,
+      "message": "- Connecting\\u2026",
+      "revId": "5c1f2b2e3bd929ae7552c63873d2b6459c469f52",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da0c15f0_1ec5ad3b",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 71,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2014-06-05T10:12:18Z",
+      "side": 1,
+      "message": "- Network error",
+      "revId": "5c1f2b2e3bd929ae7552c63873d2b6459c469f52",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da0c15f0_fec1d92f",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 73,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2014-06-05T10:12:18Z",
+      "side": 1,
+      "message": "- Verification failed",
+      "revId": "5c1f2b2e3bd929ae7552c63873d2b6459c469f52",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da0c15f0_5edd6513",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 77,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2014-06-05T10:12:18Z",
+      "side": 1,
+      "message": "- Requesting call\\u2026",
+      "revId": "5c1f2b2e3bd929ae7552c63873d2b6459c469f52",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da0c15f0_3ee231d6",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 79,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2014-06-05T10:12:18Z",
+      "side": 1,
+      "message": "- Server Error",
+      "revId": "5c1f2b2e3bd929ae7552c63873d2b6459c469f52",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da0c15f0_9ee7fde3",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 81,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2014-06-05T10:12:18Z",
+      "side": 1,
+      "message": "- Too many requests",
+      "revId": "5c1f2b2e3bd929ae7552c63873d2b6459c469f52",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da0c15f0_7eeca9c7",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 86,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2014-06-05T10:12:18Z",
+      "side": 1,
+      "message": "- Registration complete",
+      "revId": "5c1f2b2e3bd929ae7552c63873d2b6459c469f52",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da0c15f0_ded175fd",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 88,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2014-06-05T10:12:18Z",
+      "side": 1,
+      "message": "- Registration error",
+      "revId": "5c1f2b2e3bd929ae7552c63873d2b6459c469f52",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da0c15f0_5e04457d",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 102,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2014-06-05T10:12:18Z",
+      "side": 1,
+      "message": "- Verified",
+      "revId": "5c1f2b2e3bd929ae7552c63873d2b6459c469f52",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da0c15f0_9e0c1d96",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 103,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2014-06-05T10:12:18Z",
+      "side": 1,
+      "message": "please lose the exclamation point",
+      "revId": "5c1f2b2e3bd929ae7552c63873d2b6459c469f52",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da0c15f0_fed8b91f",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 104,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2014-06-05T10:12:18Z",
+      "side": 1,
+      "message": "- Not verified",
+      "revId": "5c1f2b2e3bd929ae7552c63873d2b6459c469f52",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da0c15f0_3e099196",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 105,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2014-06-05T10:12:18Z",
+      "side": 1,
+      "message": "please lose the exclamation point",
+      "revId": "5c1f2b2e3bd929ae7552c63873d2b6459c469f52",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da0c15f0_9efedd69",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 106,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2014-06-05T10:12:18Z",
+      "side": 1,
+      "message": "please lose the exclamation point",
+      "revId": "5c1f2b2e3bd929ae7552c63873d2b6459c469f52",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da0c15f0_bef5a184",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 133,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2014-06-05T10:12:18Z",
+      "side": 1,
+      "message": "- Call me",
+      "revId": "5c1f2b2e3bd929ae7552c63873d2b6459c469f52",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da0c15f0_1ef3ed9f",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 156,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2014-06-05T10:12:18Z",
+      "side": 1,
+      "message": "- Registration complete",
+      "revId": "5c1f2b2e3bd929ae7552c63873d2b6459c469f52",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da0c15f0_3e307156",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 158,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2014-06-05T10:12:18Z",
+      "side": 1,
+      "message": "- Register again",
+      "revId": "5c1f2b2e3bd929ae7552c63873d2b6459c469f52",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da0c15f0_9e353d48",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 166,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2014-06-05T10:12:18Z",
+      "side": 1,
+      "message": "- Their fingerprint:",
+      "revId": "5c1f2b2e3bd929ae7552c63873d2b6459c469f52",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da0c15f0_7e3ae937",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 169,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2014-06-05T10:12:18Z",
+      "side": 1,
+      "message": "- Avatar icon",
+      "revId": "5c1f2b2e3bd929ae7552c63873d2b6459c469f52",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da0c15f0_be23e104",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 181,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2014-06-05T10:12:18Z",
+      "side": 1,
+      "message": "- Registering with WhisperPush\\u2026",
+      "revId": "5c1f2b2e3bd929ae7552c63873d2b6459c469f52",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da0c15f0_de3fb523",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 182,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2014-06-05T10:12:18Z",
+      "side": 1,
+      "message": "- WhisperPush enabled",
+      "revId": "5c1f2b2e3bd929ae7552c63873d2b6459c469f52",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da0c15f0_be3c8130",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 183,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2014-06-05T10:12:18Z",
+      "side": 1,
+      "message": "- WhisperPush registration failed",
+      "revId": "5c1f2b2e3bd929ae7552c63873d2b6459c469f52",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da0c15f0_1e4acdc5",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 189,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2014-06-05T10:12:18Z",
+      "side": 1,
+      "message": "- WhisperPush preferences",
+      "revId": "5c1f2b2e3bd929ae7552c63873d2b6459c469f52",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da0c15f0_1e212dfc",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 200,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2014-06-05T10:12:18Z",
+      "side": 1,
+      "message": "- Unregistering\\u2026",
+      "revId": "5c1f2b2e3bd929ae7552c63873d2b6459c469f52",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
