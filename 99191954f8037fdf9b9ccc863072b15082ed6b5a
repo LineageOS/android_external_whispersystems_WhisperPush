@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "da0c15f0_feef19ae",
+        "filename": "res/layout/error_and_reset_activity.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 9045
+      },
+      "writtenOn": "2014-06-05T10:02:48Z",
+      "side": 1,
+      "message": "header?",
+      "revId": "99191954f8037fdf9b9ccc863072b15082ed6b5a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da0c15f0_7e030974",
+        "filename": "src/org/whispersystems/whisperpush/ui/ErrorAndResetActivity.java",
+        "patchSetId": 4
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 9045
+      },
+      "writtenOn": "2014-06-05T10:02:48Z",
+      "side": 1,
+      "message": "2014",
+      "revId": "99191954f8037fdf9b9ccc863072b15082ed6b5a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da0c15f0_def8557f",
+        "filename": "src/org/whispersystems/whisperpush/ui/ErrorAndResetActivity.java",
+        "patchSetId": 4
+      },
+      "lineNbr": 94,
+      "author": {
+        "id": 9045
+      },
+      "writtenOn": "2014-06-05T10:02:48Z",
+      "side": 1,
+      "message": "nit: unused methods",
+      "revId": "99191954f8037fdf9b9ccc863072b15082ed6b5a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
