@@ -19,6 +19,40 @@
     },
     {
       "key": {
+        "uuid": "da0c15f0_d7f9534f",
+        "filename": "src/org/whispersystems/whisperpush/db/ActiveSessionProvider.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 43,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2014-06-10T19:37:02Z",
+      "side": 1,
+      "message": "mDirectory",
+      "revId": "bed52ff422426fbb218d415f5b6a72021e83f07f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da0c15f0_37952fe4",
+        "filename": "src/org/whispersystems/whisperpush/db/ActiveSessionProvider.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 51,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2014-06-10T19:37:02Z",
+      "side": 1,
+      "message": "Too many spaces here.",
+      "revId": "bed52ff422426fbb218d415f5b6a72021e83f07f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "da0c15f0_5711c3ab",
         "filename": "src/org/whispersystems/whisperpush/db/ActiveSessionProvider.java",
         "patchSetId": 1
@@ -53,6 +87,24 @@
     },
     {
       "key": {
+        "uuid": "da0c15f0_779fa703",
+        "filename": "src/org/whispersystems/whisperpush/db/ActiveSessionProvider.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 67,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2014-06-10T19:37:02Z",
+      "side": 1,
+      "message": "And add a few spaces.",
+      "parentUuid": "da0c15f0_b7265f14",
+      "revId": "bed52ff422426fbb218d415f5b6a72021e83f07f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "da0c15f0_97235b05",
         "filename": "src/org/whispersystems/whisperpush/db/ActiveSessionProvider.java",
         "patchSetId": 1
@@ -81,6 +133,41 @@
       "writtenOn": "2014-06-10T16:43:48Z",
       "side": 1,
       "message": "Check for selectionArgs not being null and its length.",
+      "revId": "bed52ff422426fbb218d415f5b6a72021e83f07f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da0c15f0_57a42356",
+        "filename": "src/org/whispersystems/whisperpush/db/ActiveSessionProvider.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 72,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2014-06-10T19:37:02Z",
+      "side": 1,
+      "message": "Simply assuming the selection args provide an address without checking whether the selection actually backs that assumption is very weird behaviour IMHO. Better check whether the selection is either empty (in which case return all rows) or - if that isn\u0027t deemed ok - check whether the selection is valid and throw an exception if it isn\u0027t.",
+      "parentUuid": "da0c15f0_f720d7f9",
+      "revId": "bed52ff422426fbb218d415f5b6a72021e83f07f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da0c15f0_b7893fcd",
+        "filename": "src/org/whispersystems/whisperpush/db/ActiveSessionProvider.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 88,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2014-06-10T19:37:02Z",
+      "side": 1,
+      "message": "(...) {\n    return 0;\n}",
       "revId": "bed52ff422426fbb218d415f5b6a72021e83f07f",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
