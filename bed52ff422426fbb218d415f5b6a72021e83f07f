@@ -1,0 +1,89 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "da0c15f0_d71dd3be",
+        "filename": "src/org/whispersystems/whisperpush/db/ActiveSessionProvider.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 940
+      },
+      "writtenOn": "2014-06-10T16:43:48Z",
+      "side": 1,
+      "message": "Not used ?",
+      "revId": "bed52ff422426fbb218d415f5b6a72021e83f07f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da0c15f0_5711c3ab",
+        "filename": "src/org/whispersystems/whisperpush/db/ActiveSessionProvider.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 64,
+      "author": {
+        "id": 940
+      },
+      "writtenOn": "2014-06-10T16:43:48Z",
+      "side": 1,
+      "message": "Wrap this around some sort of if (DEBUG) ?",
+      "revId": "bed52ff422426fbb218d415f5b6a72021e83f07f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da0c15f0_b7265f14",
+        "filename": "src/org/whispersystems/whisperpush/db/ActiveSessionProvider.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 67,
+      "author": {
+        "id": 940
+      },
+      "writtenOn": "2014-06-10T16:43:48Z",
+      "side": 1,
+      "message": "Use ACTIVE_SESSION",
+      "revId": "bed52ff422426fbb218d415f5b6a72021e83f07f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da0c15f0_97235b05",
+        "filename": "src/org/whispersystems/whisperpush/db/ActiveSessionProvider.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 68,
+      "author": {
+        "id": 940
+      },
+      "writtenOn": "2014-06-10T16:43:48Z",
+      "side": 1,
+      "message": "Use TOKEN",
+      "revId": "bed52ff422426fbb218d415f5b6a72021e83f07f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da0c15f0_f720d7f9",
+        "filename": "src/org/whispersystems/whisperpush/db/ActiveSessionProvider.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 72,
+      "author": {
+        "id": 940
+      },
+      "writtenOn": "2014-06-10T16:43:48Z",
+      "side": 1,
+      "message": "Check for selectionArgs not being null and its length.",
+      "revId": "bed52ff422426fbb218d415f5b6a72021e83f07f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
