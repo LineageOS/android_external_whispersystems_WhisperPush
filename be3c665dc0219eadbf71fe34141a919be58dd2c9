@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ba0121b8_e9fe5a04",
+        "filename": "src/org/whispersystems/whisperpush/service/MessageNotifier.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 105,
+      "author": {
+        "id": 848
+      },
+      "writtenOn": "2014-06-20T12:06:29Z",
+      "side": 1,
+      "message": "100 char",
+      "revId": "be3c665dc0219eadbf71fe34141a919be58dd2c9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ba0121b8_c903960c",
+        "filename": "src/org/whispersystems/whisperpush/service/MessageReceiver.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 176,
+      "author": {
+        "id": 848
+      },
+      "writtenOn": "2014-06-20T12:06:29Z",
+      "side": 1,
+      "message": "100 char",
+      "revId": "be3c665dc0219eadbf71fe34141a919be58dd2c9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
