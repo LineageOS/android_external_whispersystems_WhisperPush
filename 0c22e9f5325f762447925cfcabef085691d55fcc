@@ -1,0 +1,174 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a8ec9b2_4c03fd73",
+        "filename": "src/org/whispersystems/whisperpush/database/CanonicalAddressDatabase.java",
+        "patchSetId": 11
+      },
+      "lineNbr": 49,
+      "author": {
+        "id": 9813
+      },
+      "writtenOn": "2015-06-05T05:58:51Z",
+      "side": 1,
+      "message": "Might as well remove the context parameter.",
+      "revId": "0c22e9f5325f762447925cfcabef085691d55fcc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a8ec9b2_ccef0daf",
+        "filename": "src/org/whispersystems/whisperpush/db/CMDatabase.java",
+        "patchSetId": 11
+      },
+      "lineNbr": 108,
+      "author": {
+        "id": 9813
+      },
+      "writtenOn": "2015-06-05T05:58:51Z",
+      "side": 1,
+      "message": "codestyle nitpic if (oldVersion",
+      "revId": "0c22e9f5325f762447925cfcabef085691d55fcc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a8ec9b2_ec2a09e7",
+        "filename": "src/org/whispersystems/whisperpush/db/CMDatabase.java",
+        "patchSetId": 11
+      },
+      "lineNbr": 109,
+      "author": {
+        "id": 9813
+      },
+      "writtenOn": "2015-06-05T05:58:51Z",
+      "side": 1,
+      "message": "Should we alert the user we\u0027re dropping all their contacts since they\u0027ll receive confirmation notifications all over again?",
+      "revId": "0c22e9f5325f762447925cfcabef085691d55fcc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a8ec9b2_2c35d145",
+        "filename": "src/org/whispersystems/whisperpush/directory/Directory.java",
+        "patchSetId": 11
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 9813
+      },
+      "writtenOn": "2015-06-05T05:58:51Z",
+      "side": 1,
+      "message": "Needs a copyright header",
+      "revId": "0c22e9f5325f762447925cfcabef085691d55fcc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a8ec9b2_4c3a1d38",
+        "filename": "src/org/whispersystems/whisperpush/directory/NotInDirectoryException.java",
+        "patchSetId": 11
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 9813
+      },
+      "writtenOn": "2015-06-05T05:58:51Z",
+      "side": 1,
+      "message": "Copyright header",
+      "revId": "0c22e9f5325f762447925cfcabef085691d55fcc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a8ec9b2_ac49e1d2",
+        "filename": "src/org/whispersystems/whisperpush/gcm/GcmReceiver.java",
+        "patchSetId": 11
+      },
+      "lineNbr": 61,
+      "author": {
+        "id": 9813
+      },
+      "writtenOn": "2015-06-05T05:58:51Z",
+      "side": 1,
+      "message": "codestyle nitpick, need a space",
+      "revId": "0c22e9f5325f762447925cfcabef085691d55fcc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a8ec9b2_cc462dbf",
+        "filename": "src/org/whispersystems/whisperpush/gcm/GcmReceiver.java",
+        "patchSetId": 11
+      },
+      "lineNbr": 64,
+      "author": {
+        "id": 9813
+      },
+      "writtenOn": "2015-06-05T05:58:51Z",
+      "side": 1,
+      "message": "same",
+      "revId": "0c22e9f5325f762447925cfcabef085691d55fcc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a8ec9b2_ec1129b1",
+        "filename": "src/org/whispersystems/whisperpush/gcm/GcmReceiver.java",
+        "patchSetId": 11
+      },
+      "lineNbr": 67,
+      "author": {
+        "id": 9813
+      },
+      "writtenOn": "2015-06-05T05:58:51Z",
+      "side": 1,
+      "message": "same",
+      "revId": "0c22e9f5325f762447925cfcabef085691d55fcc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a8ec9b2_0c1735a4",
+        "filename": "src/org/whispersystems/whisperpush/service/MessageReceiver.java",
+        "patchSetId": 11
+      },
+      "lineNbr": 216,
+      "author": {
+        "id": 9813
+      },
+      "writtenOn": "2015-06-05T05:58:51Z",
+      "side": 1,
+      "message": "This should be fine since BlacklistProvider also does e164 formatted numbers.",
+      "revId": "0c22e9f5325f762447925cfcabef085691d55fcc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a8ec9b2_2c0cf193",
+        "filename": "src/org/whispersystems/whisperpush/service/MessageSender.java",
+        "patchSetId": 11
+      },
+      "lineNbr": 75,
+      "author": {
+        "id": 9813
+      },
+      "writtenOn": "2015-06-05T05:58:51Z",
+      "side": 1,
+      "message": "number formatting shouldn\u0027t be happening on send, it doesn\u0027t happen in the regular SMS stack.",
+      "revId": "0c22e9f5325f762447925cfcabef085691d55fcc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
