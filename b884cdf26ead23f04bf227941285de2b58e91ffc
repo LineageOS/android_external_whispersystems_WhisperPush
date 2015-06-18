@@ -1,0 +1,72 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "da36d5c6_0f4bc92c",
+        "filename": "src/org/whispersystems/whisperpush/db/CMDatabase.java",
+        "patchSetId": 13
+      },
+      "lineNbr": 56,
+      "author": {
+        "id": 9813
+      },
+      "writtenOn": "2015-06-18T14:17:19Z",
+      "side": 1,
+      "message": "TextUtils.isEmpty",
+      "revId": "b884cdf26ead23f04bf227941285de2b58e91ffc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da36d5c6_4fbea100",
+        "filename": "src/org/whispersystems/whisperpush/util/Util.java",
+        "patchSetId": 13
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 9813
+      },
+      "writtenOn": "2015-06-18T14:17:19Z",
+      "side": 1,
+      "message": "Why not just use TextUtils.isEmpty()?\nhttp://developer.android.com/reference/android/text/TextUtils.html#isEmpty(java.lang.CharSequence)",
+      "revId": "b884cdf26ead23f04bf227941285de2b58e91ffc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da36d5c6_6fbb650f",
+        "filename": "src/org/whispersystems/whisperpush/util/Util.java",
+        "patchSetId": 13
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 9813
+      },
+      "writtenOn": "2015-06-18T14:17:19Z",
+      "side": 1,
+      "message": "same here",
+      "revId": "b884cdf26ead23f04bf227941285de2b58e91ffc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da36d5c6_8f36d9b2",
+        "filename": "src/org/whispersystems/whisperpush/util/Util.java",
+        "patchSetId": 13
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 9813
+      },
+      "writtenOn": "2015-06-18T14:17:19Z",
+      "side": 1,
+      "message": "same",
+      "revId": "b884cdf26ead23f04bf227941285de2b58e91ffc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
