@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "da36d5c6_d2823ac8",
+        "filename": "src/org/whispersystems/whisperpush/db/CMDatabase.java",
+        "patchSetId": 13
+      },
+      "lineNbr": 56,
+      "author": {
+        "id": 7841
+      },
+      "writtenOn": "2015-06-19T11:34:53Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "da36d5c6_0f4bc92c",
+      "revId": "b884cdf26ead23f04bf227941285de2b58e91ffc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "da36d5c6_4fbea100",
         "filename": "src/org/whispersystems/whisperpush/util/Util.java",
         "patchSetId": 13
@@ -30,6 +48,24 @@
       "writtenOn": "2015-06-18T14:17:19Z",
       "side": 1,
       "message": "Why not just use TextUtils.isEmpty()?\nhttp://developer.android.com/reference/android/text/TextUtils.html#isEmpty(java.lang.CharSequence)",
+      "revId": "b884cdf26ead23f04bf227941285de2b58e91ffc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da36d5c6_5281ea8e",
+        "filename": "src/org/whispersystems/whisperpush/util/Util.java",
+        "patchSetId": 13
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 7841
+      },
+      "writtenOn": "2015-06-19T11:34:53Z",
+      "side": 1,
+      "message": "Likely a valid point, but this version of isEmpty has slightly different semantics, (it\u0027ll treat a string that is just spaces as empty), and I\u0027m not yet in the business of verifying logic in this app, so I\u0027m leaving it as is for now.",
+      "parentUuid": "da36d5c6_4fbea100",
       "revId": "b884cdf26ead23f04bf227941285de2b58e91ffc",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -53,6 +89,24 @@
     },
     {
       "key": {
+        "uuid": "da36d5c6_9217e253",
+        "filename": "src/org/whispersystems/whisperpush/util/Util.java",
+        "patchSetId": 13
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 7841
+      },
+      "writtenOn": "2015-06-19T11:34:53Z",
+      "side": 1,
+      "message": "Since this calls through to the method above, I\u0027m leaving it be so as to not accidentally disturb the semantics.",
+      "parentUuid": "da36d5c6_6fbb650f",
+      "revId": "b884cdf26ead23f04bf227941285de2b58e91ffc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "da36d5c6_8f36d9b2",
         "filename": "src/org/whispersystems/whisperpush/util/Util.java",
         "patchSetId": 13
@@ -64,6 +118,24 @@
       "writtenOn": "2015-06-18T14:17:19Z",
       "side": 1,
       "message": "same",
+      "revId": "b884cdf26ead23f04bf227941285de2b58e91ffc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da36d5c6_52580a57",
+        "filename": "src/org/whispersystems/whisperpush/util/Util.java",
+        "patchSetId": 13
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 7841
+      },
+      "writtenOn": "2015-06-19T11:34:53Z",
+      "side": 1,
+      "message": "This is indeed the same as TextUtils.isEmpty, so I removed it and replaced all calls to it with TextUtils.isEmpty.",
+      "parentUuid": "da36d5c6_8f36d9b2",
       "revId": "b884cdf26ead23f04bf227941285de2b58e91ffc",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
