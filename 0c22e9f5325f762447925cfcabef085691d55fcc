@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "da36d5c6_32ce365b",
+        "filename": "src/org/whispersystems/whisperpush/database/CanonicalAddressDatabase.java",
+        "patchSetId": 11
+      },
+      "lineNbr": 49,
+      "author": {
+        "id": 7841
+      },
+      "writtenOn": "2015-06-19T11:00:00Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "7a8ec9b2_4c03fd73",
+      "revId": "0c22e9f5325f762447925cfcabef085691d55fcc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "7a8ec9b2_ccef0daf",
         "filename": "src/org/whispersystems/whisperpush/db/CMDatabase.java",
         "patchSetId": 11
@@ -30,6 +48,24 @@
       "writtenOn": "2015-06-05T05:58:51Z",
       "side": 1,
       "message": "codestyle nitpic if (oldVersion",
+      "revId": "0c22e9f5325f762447925cfcabef085691d55fcc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da36d5c6_72d8ae1e",
+        "filename": "src/org/whispersystems/whisperpush/db/CMDatabase.java",
+        "patchSetId": 11
+      },
+      "lineNbr": 108,
+      "author": {
+        "id": 7841
+      },
+      "writtenOn": "2015-06-19T11:00:00Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "7a8ec9b2_ccef0daf",
       "revId": "0c22e9f5325f762447925cfcabef085691d55fcc",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -53,6 +89,24 @@
     },
     {
       "key": {
+        "uuid": "da36d5c6_92036276",
+        "filename": "src/org/whispersystems/whisperpush/db/CMDatabase.java",
+        "patchSetId": 11
+      },
+      "lineNbr": 109,
+      "author": {
+        "id": 7841
+      },
+      "writtenOn": "2015-06-19T11:00:00Z",
+      "side": 1,
+      "message": "Since we are moving to using Moxie\u0027s server, users will likely have reconfirm all their contacts anyway. However if we do figure out a migration solution, then yes, this would not be ideal. I\u0027ll put in a comment in here for the moment.",
+      "parentUuid": "7a8ec9b2_ec2a09e7",
+      "revId": "0c22e9f5325f762447925cfcabef085691d55fcc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "7a8ec9b2_2c35d145",
         "filename": "src/org/whispersystems/whisperpush/directory/Directory.java",
         "patchSetId": 11
@@ -64,6 +118,24 @@
       "writtenOn": "2015-06-05T05:58:51Z",
       "side": 1,
       "message": "Needs a copyright header",
+      "revId": "0c22e9f5325f762447925cfcabef085691d55fcc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da36d5c6_12f8527c",
+        "filename": "src/org/whispersystems/whisperpush/directory/Directory.java",
+        "patchSetId": 11
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 7841
+      },
+      "writtenOn": "2015-06-19T11:00:00Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "7a8ec9b2_2c35d145",
       "revId": "0c22e9f5325f762447925cfcabef085691d55fcc",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -87,6 +159,24 @@
     },
     {
       "key": {
+        "uuid": "da36d5c6_52f2ca9b",
+        "filename": "src/org/whispersystems/whisperpush/directory/NotInDirectoryException.java",
+        "patchSetId": 11
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 7841
+      },
+      "writtenOn": "2015-06-19T11:00:00Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "7a8ec9b2_4c3a1d38",
+      "revId": "0c22e9f5325f762447925cfcabef085691d55fcc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "7a8ec9b2_ac49e1d2",
         "filename": "src/org/whispersystems/whisperpush/gcm/GcmReceiver.java",
         "patchSetId": 11
@@ -98,6 +188,24 @@
       "writtenOn": "2015-06-05T05:58:51Z",
       "side": 1,
       "message": "codestyle nitpick, need a space",
+      "revId": "0c22e9f5325f762447925cfcabef085691d55fcc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da36d5c6_b22f86f5",
+        "filename": "src/org/whispersystems/whisperpush/gcm/GcmReceiver.java",
+        "patchSetId": 11
+      },
+      "lineNbr": 61,
+      "author": {
+        "id": 7841
+      },
+      "writtenOn": "2015-06-19T11:00:00Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "7a8ec9b2_ac49e1d2",
       "revId": "0c22e9f5325f762447925cfcabef085691d55fcc",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -121,6 +229,24 @@
     },
     {
       "key": {
+        "uuid": "da36d5c6_d234fa4b",
+        "filename": "src/org/whispersystems/whisperpush/gcm/GcmReceiver.java",
+        "patchSetId": 11
+      },
+      "lineNbr": 64,
+      "author": {
+        "id": 7841
+      },
+      "writtenOn": "2015-06-19T11:00:00Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "7a8ec9b2_cc462dbf",
+      "revId": "0c22e9f5325f762447925cfcabef085691d55fcc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "7a8ec9b2_ec1129b1",
         "filename": "src/org/whispersystems/whisperpush/gcm/GcmReceiver.java",
         "patchSetId": 11
@@ -132,6 +258,24 @@
       "writtenOn": "2015-06-05T05:58:51Z",
       "side": 1,
       "message": "same",
+      "revId": "0c22e9f5325f762447925cfcabef085691d55fcc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da36d5c6_f239fe42",
+        "filename": "src/org/whispersystems/whisperpush/gcm/GcmReceiver.java",
+        "patchSetId": 11
+      },
+      "lineNbr": 67,
+      "author": {
+        "id": 7841
+      },
+      "writtenOn": "2015-06-19T11:00:00Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "7a8ec9b2_ec1129b1",
       "revId": "0c22e9f5325f762447925cfcabef085691d55fcc",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -155,6 +299,24 @@
     },
     {
       "key": {
+        "uuid": "da36d5c6_123f7226",
+        "filename": "src/org/whispersystems/whisperpush/service/MessageReceiver.java",
+        "patchSetId": 11
+      },
+      "lineNbr": 216,
+      "author": {
+        "id": 7841
+      },
+      "writtenOn": "2015-06-19T11:00:00Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "7a8ec9b2_0c1735a4",
+      "revId": "0c22e9f5325f762447925cfcabef085691d55fcc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "7a8ec9b2_2c0cf193",
         "filename": "src/org/whispersystems/whisperpush/service/MessageSender.java",
         "patchSetId": 11
@@ -166,6 +328,24 @@
       "writtenOn": "2015-06-05T05:58:51Z",
       "side": 1,
       "message": "number formatting shouldn\u0027t be happening on send, it doesn\u0027t happen in the regular SMS stack.",
+      "revId": "0c22e9f5325f762447925cfcabef085691d55fcc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da36d5c6_9211a2b2",
+        "filename": "src/org/whispersystems/whisperpush/service/MessageSender.java",
+        "patchSetId": 11
+      },
+      "lineNbr": 75,
+      "author": {
+        "id": 7841
+      },
+      "writtenOn": "2015-06-19T11:00:00Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "7a8ec9b2_2c0cf193",
       "revId": "0c22e9f5325f762447925cfcabef085691d55fcc",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
