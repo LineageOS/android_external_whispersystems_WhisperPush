@@ -34,6 +34,24 @@
       "revId": "5af106554b0226375574f3142611fa0938401332",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a25e98e_4fc4e53f",
+        "filename": "res/values/config.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 7841
+      },
+      "writtenOn": "2015-06-23T11:49:20Z",
+      "side": 1,
+      "message": "Actually, to be even more explicit, the number from the screenshot was 0857-1881-2868 ... I\u0027m assuming the hyphens are pretty printed in there and that the number that RECEIVE_PROTECTED_SMS would fire on will be all digits. Do you have any sense if that is a true statement or not?",
+      "parentUuid": "7a25e98e_efb4b1d2",
+      "revId": "5af106554b0226375574f3142611fa0938401332",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
