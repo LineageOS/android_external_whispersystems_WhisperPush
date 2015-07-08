@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5ff73747_063b80d1",
+        "filename": "src/org/whispersystems/whisperpush/sms/IncomingSmsListener.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 62,
+      "author": {
+        "id": 6551
+      },
+      "writtenOn": "2015-07-08T13:50:19Z",
+      "side": 1,
+      "message": "In China we have \"[CEG]Your TextSecure verification code: xxx-xxx\".",
+      "revId": "f22222a699c27ae9bed4ec230ed007dc241d594e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
