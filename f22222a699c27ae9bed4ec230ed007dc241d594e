@@ -52,6 +52,24 @@
       "revId": "f22222a699c27ae9bed4ec230ed007dc241d594e",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1f013ff3_db6fb390",
+        "filename": "src/org/whispersystems/whisperpush/sms/IncomingSmsListener.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 62,
+      "author": {
+        "id": 6551
+      },
+      "writtenOn": "2015-07-10T17:45:02Z",
+      "side": 1,
+      "message": "Well I just found that sometimes \"CEG\" appears at the end of verification SMS. Randomly.",
+      "parentUuid": "1f013ff3_1b5e3be6",
+      "revId": "f22222a699c27ae9bed4ec230ed007dc241d594e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
