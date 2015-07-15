@@ -88,6 +88,24 @@
       "revId": "f22222a699c27ae9bed4ec230ed007dc241d594e",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ff0f0b1f_a19a7dc2",
+        "filename": "src/org/whispersystems/whisperpush/sms/IncomingSmsListener.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 62,
+      "author": {
+        "id": 6551
+      },
+      "writtenOn": "2015-07-15T10:47:54Z",
+      "side": 1,
+      "message": "Sounds like a good idea. What\u0027s the downside, if any?",
+      "parentUuid": "1f013ff3_fb75cfcd",
+      "revId": "f22222a699c27ae9bed4ec230ed007dc241d594e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
