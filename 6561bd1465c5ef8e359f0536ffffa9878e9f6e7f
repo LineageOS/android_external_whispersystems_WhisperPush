@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7f287b81_01e238d6",
+        "filename": "src/org/whispersystems/whisperpush/service/DirectoryRefreshService.java",
+        "patchSetId": 20
+      },
+      "lineNbr": 90,
+      "author": {
+        "id": 14168
+      },
+      "writtenOn": "2015-10-16T17:39:08Z",
+      "side": 1,
+      "message": "Must be getNumber(). This issue causes critical bug - all contacts are stored in a database as unregistered.",
+      "range": {
+        "startLine": 90,
+        "startChar": 65,
+        "endLine": 90,
+        "endChar": 75
+      },
+      "revId": "6561bd1465c5ef8e359f0536ffffa9878e9f6e7f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
