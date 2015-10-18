@@ -22,6 +22,29 @@
       "revId": "6561bd1465c5ef8e359f0536ffffa9878e9f6e7f",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7f287b81_ed2cba9a",
+        "filename": "src/org/whispersystems/whisperpush/service/RegistrationService.java",
+        "patchSetId": 20
+      },
+      "lineNbr": 330,
+      "author": {
+        "id": 14168
+      },
+      "writtenOn": "2015-10-18T21:41:38Z",
+      "side": 1,
+      "message": "Must be getNumber(). This issue causes critical bug - all contacts are stored in a database as unregistered.\neligibleContactTokens should be renamed to eligibleContactNumbers, respectively.",
+      "range": {
+        "startLine": 330,
+        "startChar": 57,
+        "endLine": 330,
+        "endChar": 67
+      },
+      "revId": "6561bd1465c5ef8e359f0536ffffa9878e9f6e7f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
